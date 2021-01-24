@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: 7e608ea77cb9f0443b59f4ceff9738ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7560411274743466497
+    second: Over_ExitB_0
+  - first:
+      213: -5185547170606175505
+    second: Over_ExitB_1
+  - first:
+      213: 7435470244318978508
+    second: Over_ExitB_2
+  - first:
+      213: 7381883744700399395
+    second: Over_ExitB_3
+  - first:
+      213: -3356286000146307255
+    second: Over_ExitB_4
+  - first:
+      213: -7998030489510608920
+    second: Over_ExitB_5
+  - first:
+      213: -5885977138511500597
+    second: Over_ExitB_6
+  - first:
+      213: -6072326065558478519
+    second: Over_ExitB_7
+  - first:
+      213: -4881641504047242416
+    second: Over_ExitB_8
+  - first:
+      213: 6710997015221387383
+    second: Over_ExitB_9
+  - first:
+      213: -9140508243222271931
+    second: Over_ExitB_10
+  - first:
+      213: 7164286565008874259
+    second: Over_ExitB_11
+  - first:
+      213: 3451599979470148188
+    second: Over_ExitB_12
+  - first:
+      213: -8875327007651247132
+    second: Over_ExitB_13
+  - first:
+      213: -2247287311313775462
+    second: Over_ExitB_14
+  - first:
+      213: -7138156088239419221
+    second: Over_ExitB_15
+  - first:
+      213: 5500059549511080992
+    second: Over_ExitB_16
+  - first:
+      213: -3878405530356312678
+    second: Over_ExitB_17
+  - first:
+      213: -3297838448364531666
+    second: Over_ExitB_18
+  - first:
+      213: -7858922488486107761
+    second: Over_ExitB_19
+  - first:
+      213: -9181300418164165846
+    second: Over_ExitB_20
+  - first:
+      213: 2057073922548101594
+    second: Over_ExitB_21
+  - first:
+      213: 8741911852334570742
+    second: Over_ExitB_22
+  - first:
+      213: -2878675017904176665
+    second: Over_ExitB_23
+  - first:
+      213: 2647593203515222853
+    second: Over_ExitB_24
+  - first:
+      213: 1692312162043130126
+    second: Over_ExitB_25
+  - first:
+      213: 7199556204720828831
+    second: Over_ExitB_26
+  - first:
+      213: -5569081317226710776
+    second: Over_ExitB_27
+  - first:
+      213: -8450456472309486747
+    second: Over_ExitB_28
+  - first:
+      213: 2318275677397244443
+    second: Over_ExitB_29
+  - first:
+      213: -3203745798329441398
+    second: Over_ExitB_30
+  - first:
+      213: 8817916498050534044
+    second: Over_ExitB_31
+  - first:
+      213: 7706185977159185302
+    second: Over_ExitB_32
+  - first:
+      213: 3931988845199916560
+    second: Over_ExitB_33
+  - first:
+      213: 7308297694266915720
+    second: Over_ExitB_34
+  - first:
+      213: 596549571495912351
+    second: Over_ExitB_35
+  - first:
+      213: -2420257508294511860
+    second: Over_ExitB_36
+  - first:
+      213: 2343036181868135211
+    second: Over_ExitB_37
+  - first:
+      213: -7616813891599478435
+    second: Over_ExitB_38
+  - first:
+      213: -438370958097438994
+    second: Over_ExitB_39
+  - first:
+      213: -6994340081051522263
+    second: Over_ExitB_40
+  - first:
+      213: 1212298227066899384
+    second: Over_ExitB_41
+  - first:
+      213: 5583263046215553253
+    second: Over_ExitB_42
+  - first:
+      213: 3359804216023761775
+    second: Over_ExitB_43
+  - first:
+      213: -2505538422462298129
+    second: Over_ExitB_44
+  - first:
+      213: -3407857230587685901
+    second: Over_ExitB_45
+  - first:
+      213: 2756795505065849068
+    second: Over_ExitB_46
+  - first:
+      213: 4772719023095983212
+    second: Over_ExitB_47
+  - first:
+      213: 8196951935857101827
+    second: Over_ExitB_48
+  - first:
+      213: -8381079877126401890
+    second: Over_ExitB_49
+  - first:
+      213: -8005876856079871121
+    second: Over_ExitB_50
+  - first:
+      213: -5048194077324729860
+    second: Over_ExitB_51
+  - first:
+      213: -1336519602496697715
+    second: Over_ExitB_52
+  - first:
+      213: -5153571521300096044
+    second: Over_ExitB_53
+  - first:
+      213: 4577205639006141005
+    second: Over_ExitB_54
+  - first:
+      213: -5638731338341196094
+    second: Over_ExitB_55
+  - first:
+      213: -3049427157375419237
+    second: Over_ExitB_56
+  - first:
+      213: -7055705671798664878
+    second: Over_ExitB_57
+  - first:
+      213: 9037718156251046076
+    second: Over_ExitB_58
+  - first:
+      213: -1405420283345833020
+    second: Over_ExitB_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 127
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Over_ExitB_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5be0d9006041790800000000000000
+      internalID: -7560411274743466497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaacf1925c3908b0800000000000000
+      internalID: -5185547170606175505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ae9adac8103760800000000000000
+      internalID: 7435470244318978508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff818a728b17660800000000000000
+      internalID: 7381883744700399395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a9ac4aa31c61d0800000000000000
+      internalID: -3356286000146307255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff9f925a9410190800000000000000
+      internalID: -7998030489510608920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa3fe4afec05ea0800000000000000
+      internalID: -5885977138511500597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941aa0ead93cabba0800000000000000
+      internalID: -6072326065558478519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e5768aece04cb0800000000000000
+      internalID: -4881641504047242416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704afc9a30422d50800000000000000
+      internalID: 6710997015221387383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e4386e24662180800000000000000
+      internalID: -9140508243222271931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 528
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b15704ca8ac6360800000000000000
+      internalID: 7164286565008874259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52501bd4eb86ef20800000000000000
+      internalID: 3451599979470148188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb448b2c1184d480800000000000000
+      internalID: -8875327007651247132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9456e4d81800d0e0800000000000000
+      internalID: -2247287311313775462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba092397bdc20fc90800000000000000
+      internalID: -7138156088239419221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5a1c0503245c40800000000000000
+      internalID: 5500059549511080992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95933408b22d2ac0800000000000000
+      internalID: -3878405530356312678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205b966769bb32d0800000000000000
+      internalID: -3297838448364531666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e47492af7fe290800000000000000
+      internalID: -7858922488486107761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23fd2f0ae7759080800000000000000
+      internalID: -9181300418164165846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_21
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f23e65d13c8c10800000000000000
+      internalID: 2057073922548101594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_22
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcdd285382815970800000000000000
+      internalID: 8741911852334570742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_23
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 396
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c706b254ec08d0800000000000000
+      internalID: -2878675017904176665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b6345bdf32eb420800000000000000
+      internalID: 2647593203515222853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0177a3f1fc4c7710800000000000000
+      internalID: 1692312162043130126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9138da2936f9e360800000000000000
+      internalID: 7199556204720828831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ff695c06a6b2b0800000000000000
+      internalID: -5569081317226710776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ba7126c92f9ba80800000000000000
+      internalID: -8450456472309486747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad0b2227b2c2020800000000000000
+      internalID: 2318275677397244443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a836cebab220a83d0800000000000000
+      internalID: -3203745798329441398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_31
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9acb5de5588f5a70800000000000000
+      internalID: 8817916498050534044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_32
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937bad215fd1fa60800000000000000
+      internalID: 7706185977159185302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_33
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e70faa50b319630800000000000000
+      internalID: 3931988845199916560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf59b280a4c6560800000000000000
+      internalID: 7308297694266915720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_35
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 264
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93ece3bcae574800800000000000000
+      internalID: 596549571495912351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0332298e94896ed0800000000000000
+      internalID: -2420257508294511860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2343245ef2248020800000000000000
+      internalID: 2343036181868135211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d3f60f14ab4690800000000000000
+      internalID: -7616813891599478435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee621caafe79ae9f0800000000000000
+      internalID: -438370958097438994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ba5aef0cc1fee90800000000000000
+      internalID: -6994340081051522263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb882280d2f2d010800000000000000
+      internalID: 1212298227066899384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e05e3db82cbb7d40800000000000000
+      internalID: 5583263046215553253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c4fa222c60ae20800000000000000
+      internalID: 3359804216023761775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ca06641a8a3dd0800000000000000
+      internalID: -2505538422462298129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_45
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3139587ebd4b0d0800000000000000
+      internalID: -3407857230587685901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_46
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f7ddd7ea124620800000000000000
+      internalID: 2756795505065849068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_47
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 132
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca2602aaa1c3240800000000000000
+      internalID: 4772719023095983212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c86b93b5c61c170800000000000000
+      internalID: 8196951935857101827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d4b1b14c60bb80800000000000000
+      internalID: -8381079877126401890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6396d59a6965e090800000000000000
+      internalID: -8005876856079871121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_51
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf124dfab3631f9b0800000000000000
+      internalID: -5048194077324729860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a86d1b08ab37de0800000000000000
+      internalID: -1336519602496697715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_53
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db96549106da78b0800000000000000
+      internalID: -5153571521300096044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_54
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a30e01740858f30800000000000000
+      internalID: 4577205639006141005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_55
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5f4a19b33fb1b0800000000000000
+      internalID: -5638731338341196094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_56
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c753c28224ea5d0800000000000000
+      internalID: -3049427157375419237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_57
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515bb00319151e90800000000000000
+      internalID: -7055705671798664878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_58
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0217b77cc6c6d70800000000000000
+      internalID: 9037718156251046076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_ExitB_59
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3fa03d2b1fe7ce0800000000000000
+      internalID: -1405420283345833020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 93fe5a7175f841849beb353cb9517c00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

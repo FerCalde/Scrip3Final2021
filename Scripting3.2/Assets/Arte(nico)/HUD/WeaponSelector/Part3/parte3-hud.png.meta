@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: 0f9ef0902dafcb44e9d5c59574e4d561
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6741229935749969894
+    second: parte3-hud_0
+  - first:
+      213: -3701517750345331599
+    second: parte3-hud_1
+  - first:
+      213: -5851182350352180627
+    second: parte3-hud_2
+  - first:
+      213: -3201001475007143127
+    second: parte3-hud_3
+  - first:
+      213: -8819256543154454051
+    second: parte3-hud_4
+  - first:
+      213: 660529309810053410
+    second: parte3-hud_5
+  - first:
+      213: 6895055091333313962
+    second: parte3-hud_6
+  - first:
+      213: 1046126258811596531
+    second: parte3-hud_7
+  - first:
+      213: 673202718396516196
+    second: parte3-hud_8
+  - first:
+      213: -3117008850801047000
+    second: parte3-hud_9
+  - first:
+      213: 4193172920035845397
+    second: parte3-hud_10
+  - first:
+      213: 1117536799935719969
+    second: parte3-hud_11
+  - first:
+      213: -6931677481568233966
+    second: parte3-hud_12
+  - first:
+      213: 5919937657928688714
+    second: parte3-hud_13
+  - first:
+      213: -2742453917113495716
+    second: parte3-hud_14
+  - first:
+      213: 8164346905979822761
+    second: parte3-hud_15
+  - first:
+      213: 2844356447342233269
+    second: parte3-hud_16
+  - first:
+      213: 5473222459207792439
+    second: parte3-hud_17
+  - first:
+      213: 8766012658968290108
+    second: parte3-hud_18
+  - first:
+      213: 956332155354324469
+    second: parte3-hud_19
+  - first:
+      213: 8290064475425742364
+    second: parte3-hud_20
+  - first:
+      213: -6315183104308331301
+    second: parte3-hud_21
+  - first:
+      213: -6883883148605702579
+    second: parte3-hud_22
+  - first:
+      213: 6492891283229376943
+    second: parte3-hud_23
+  - first:
+      213: 1836209016979470330
+    second: parte3-hud_24
+  - first:
+      213: -2512988623919897489
+    second: parte3-hud_25
+  - first:
+      213: 6517482903166855148
+    second: parte3-hud_26
+  - first:
+      213: 6664405731656041137
+    second: parte3-hud_27
+  - first:
+      213: 1136628035740469459
+    second: parte3-hud_28
+  - first:
+      213: 1001426905042702495
+    second: parte3-hud_29
+  - first:
+      213: 700448857932553954
+    second: parte3-hud_30
+  - first:
+      213: -4852299293967106593
+    second: parte3-hud_31
+  - first:
+      213: 8491529118550757009
+    second: parte3-hud_32
+  - first:
+      213: 4180795580015330221
+    second: parte3-hud_33
+  - first:
+      213: 775293539896006306
+    second: parte3-hud_34
+  - first:
+      213: 2082864318796257274
+    second: parte3-hud_35
+  - first:
+      213: 1639939716243551606
+    second: parte3-hud_36
+  - first:
+      213: 4655382440487997219
+    second: parte3-hud_37
+  - first:
+      213: 9005068276340715536
+    second: parte3-hud_38
+  - first:
+      213: 8166860749283607688
+    second: parte3-hud_39
+  - first:
+      213: -9219074946078438151
+    second: parte3-hud_40
+  - first:
+      213: -3853004416574367641
+    second: parte3-hud_41
+  - first:
+      213: -342808531859102723
+    second: parte3-hud_42
+  - first:
+      213: -921505554879007008
+    second: parte3-hud_43
+  - first:
+      213: 3328912196770234180
+    second: parte3-hud_44
+  - first:
+      213: 2273439789574250553
+    second: parte3-hud_45
+  - first:
+      213: 9173383029158624609
+    second: parte3-hud_46
+  - first:
+      213: 3385865196409131355
+    second: parte3-hud_47
+  - first:
+      213: -3089727841276530931
+    second: parte3-hud_48
+  - first:
+      213: 5462872017208363197
+    second: parte3-hud_49
+  - first:
+      213: 76543698555558175
+    second: parte3-hud_50
+  - first:
+      213: -1078396789995104053
+    second: parte3-hud_51
+  - first:
+      213: -7937479096532721126
+    second: parte3-hud_52
+  - first:
+      213: -6946484471350778267
+    second: parte3-hud_53
+  - first:
+      213: -3992489909616884955
+    second: parte3-hud_54
+  - first:
+      213: 640468231434055496
+    second: parte3-hud_55
+  - first:
+      213: 6441911445334144552
+    second: parte3-hud_56
+  - first:
+      213: 8116405093155893845
+    second: parte3-hud_57
+  - first:
+      213: 6810750714248309278
+    second: parte3-hud_58
+  - first:
+      213: 2977776184682066026
+    second: parte3-hud_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parte3-hud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c46a07175272a0800000000000000
+      internalID: -6741229935749969894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c0dd0b73191acc0800000000000000
+      internalID: -3701517750345331599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a193b37ac6ccea0800000000000000
+      internalID: -5851182350352180627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_3
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923a2bc3e12c393d0800000000000000
+      internalID: -3201001475007143127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_4
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14d3286e4bb9580800000000000000
+      internalID: -8819256543154454051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_5
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22156fa58ebaa2900800000000000000
+      internalID: 660529309810053410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_6
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5bba1f21820bf50800000000000000
+      internalID: 6895055091333313962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_7
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe6cae2a46948e00800000000000000
+      internalID: 1046126258811596531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_8
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670adb3e42b75900800000000000000
+      internalID: 673202718396516196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_9
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a414ef6f82eb4d0800000000000000
+      internalID: -3117008850801047000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_10
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515268ced84213a30800000000000000
+      internalID: 4193172920035845397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_11
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1876
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a689f6cc9428f00800000000000000
+      internalID: 1117536799935719969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161d8d5e0cbdcf90800000000000000
+      internalID: -6931677481568233966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442c494fe7d72250800000000000000
+      internalID: 5919937657928688714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f429941b8d0f9d0800000000000000
+      internalID: -2742453917113495716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_15
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2acf121469d4170800000000000000
+      internalID: 8164346905979822761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_16
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60d6a6e1f297720800000000000000
+      internalID: 2844356447342233269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_17
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73735c904dac4fb40800000000000000
+      internalID: 5473222459207792439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_18
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e16aa11227a970800000000000000
+      internalID: 8766012658968290108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_19
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9d274703954d00800000000000000
+      internalID: 956332155354324469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_20
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e16deb7b93c0370800000000000000
+      internalID: 8290064475425742364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_21
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc37280d66fb58a0800000000000000
+      internalID: -6315183104308331301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_22
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3f0cafb88770a0800000000000000
+      internalID: -6883883148605702579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_23
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1407
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10e16a8326b1a50800000000000000
+      internalID: 6492891283229376943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73e6e4f568b7910800000000000000
+      internalID: 1836209016979470330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6428a23922102dd0800000000000000
+      internalID: -2512988623919897489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_26
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce721f85b20c27a50800000000000000
+      internalID: 6517482903166855148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_27
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28f6214b9bc7c50800000000000000
+      internalID: 6664405731656041137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_28
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88f082d2d16cf00800000000000000
+      internalID: 1136628035740469459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_29
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d69fd678c5ed00800000000000000
+      internalID: 1001426905042702495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_30
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eed560768e78b900800000000000000
+      internalID: 700448857932553954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_31
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd363f208b29acb0800000000000000
+      internalID: -4852299293967106593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_32
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8a174eb8f7d570800000000000000
+      internalID: 8491529118550757009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_33
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da34651ed6b250a30800000000000000
+      internalID: 4180795580015330221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_34
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6182aed5562ca00800000000000000
+      internalID: 775293539896006306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_35
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 938
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7df2dff02d7ec10800000000000000
+      internalID: 2082864318796257274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67570cfab7c32c610800000000000000
+      internalID: 1639939716243551606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc0e21aad3b9040800000000000000
+      internalID: 4655382440487997219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_38
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0107d6de2ed68fc70800000000000000
+      internalID: 9005068276340715536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_39
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844123e494865170800000000000000
+      internalID: 8166860749283607688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_40
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8a496e244f0080800000000000000
+      internalID: -9219074946078438151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_41
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d210b5e0678ac0800000000000000
+      internalID: -3853004416574367641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_42
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a090e4791e3bf0800000000000000
+      internalID: -342808531859102723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_43
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e633e684972633f0800000000000000
+      internalID: -921505554879007008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_44
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f74f0710ca23e20800000000000000
+      internalID: 3328912196770234180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_45
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930efc38171ec8f10800000000000000
+      internalID: 2273439789574250553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_46
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16db89923476e4f70800000000000000
+      internalID: 9173383029158624609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_47
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 469
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51135105720dfe20800000000000000
+      internalID: 3385865196409131355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe31006e41f15d0800000000000000
+      internalID: -3089727841276530931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db84027f72500db40800000000000000
+      internalID: 5462872017208363197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_50
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d23a9610ff0100800000000000000
+      internalID: 76543698555558175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_51
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89b6545d3c801f0800000000000000
+      internalID: -1078396789995104053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_52
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122417f0d868d190800000000000000
+      internalID: -7937479096532721126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_53
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ae576d21299f90800000000000000
+      internalID: -6946484471350778267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_54
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52344ff8493d798c0800000000000000
+      internalID: -3992489909616884955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_55
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fac80967663e800800000000000000
+      internalID: 640468231434055496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_56
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8263aad2454466950800000000000000
+      internalID: 6441911445334144552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_57
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527abefd6343a070800000000000000
+      internalID: 8116405093155893845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_58
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a228090b5a48e50800000000000000
+      internalID: 6810750714248309278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parte3-hud_59
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 0
+        width: 470
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b79cb9af235920800000000000000
+      internalID: 2977776184682066026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55948e786b043ba499596eb11ccdeedd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

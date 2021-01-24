@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: afba5caffc3223045862340a2e5721f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7705529224337022668
+    second: Over_MenuB_0
+  - first:
+      213: -7921874847147942604
+    second: Over_MenuB_1
+  - first:
+      213: -5846577689388881511
+    second: Over_MenuB_2
+  - first:
+      213: -4411755720154093681
+    second: Over_MenuB_3
+  - first:
+      213: -1130281242341926492
+    second: Over_MenuB_4
+  - first:
+      213: 2957183568001478880
+    second: Over_MenuB_5
+  - first:
+      213: 2062174057037537264
+    second: Over_MenuB_6
+  - first:
+      213: 5682832838586555474
+    second: Over_MenuB_7
+  - first:
+      213: 6220295920418614811
+    second: Over_MenuB_8
+  - first:
+      213: -1129722404790476029
+    second: Over_MenuB_9
+  - first:
+      213: 5518060343752719848
+    second: Over_MenuB_10
+  - first:
+      213: -8331311265094634153
+    second: Over_MenuB_11
+  - first:
+      213: -4695402590856620358
+    second: Over_MenuB_12
+  - first:
+      213: -7778994958191986781
+    second: Over_MenuB_13
+  - first:
+      213: 352400396477679407
+    second: Over_MenuB_14
+  - first:
+      213: -908886097672548160
+    second: Over_MenuB_15
+  - first:
+      213: 4722462887045614632
+    second: Over_MenuB_16
+  - first:
+      213: 2506857982252440523
+    second: Over_MenuB_17
+  - first:
+      213: 2713215952236049905
+    second: Over_MenuB_18
+  - first:
+      213: 3397347928905234975
+    second: Over_MenuB_19
+  - first:
+      213: -2379400887516792400
+    second: Over_MenuB_20
+  - first:
+      213: 2127901442728525362
+    second: Over_MenuB_21
+  - first:
+      213: 6611465690592523772
+    second: Over_MenuB_22
+  - first:
+      213: 8231593307255736393
+    second: Over_MenuB_23
+  - first:
+      213: -1335797899935593185
+    second: Over_MenuB_24
+  - first:
+      213: 1352684452252095207
+    second: Over_MenuB_25
+  - first:
+      213: -3508825896646486041
+    second: Over_MenuB_26
+  - first:
+      213: -3020146634681534769
+    second: Over_MenuB_27
+  - first:
+      213: -6131036389690530575
+    second: Over_MenuB_28
+  - first:
+      213: 869554636730478953
+    second: Over_MenuB_29
+  - first:
+      213: -8775105576539928391
+    second: Over_MenuB_30
+  - first:
+      213: -6051553645113512735
+    second: Over_MenuB_31
+  - first:
+      213: -236473674792544705
+    second: Over_MenuB_32
+  - first:
+      213: -3066136835128542043
+    second: Over_MenuB_33
+  - first:
+      213: 373116055376363168
+    second: Over_MenuB_34
+  - first:
+      213: -8982104865540199929
+    second: Over_MenuB_35
+  - first:
+      213: 950594093758324269
+    second: Over_MenuB_36
+  - first:
+      213: -3213530538498964939
+    second: Over_MenuB_37
+  - first:
+      213: 5984963622073128269
+    second: Over_MenuB_38
+  - first:
+      213: -4392886526964767271
+    second: Over_MenuB_39
+  - first:
+      213: -8394063256622802276
+    second: Over_MenuB_40
+  - first:
+      213: -5945559540308633370
+    second: Over_MenuB_41
+  - first:
+      213: 2160443785825861067
+    second: Over_MenuB_42
+  - first:
+      213: 5763710279225161508
+    second: Over_MenuB_43
+  - first:
+      213: 8575315822870628300
+    second: Over_MenuB_44
+  - first:
+      213: -7842839047828054822
+    second: Over_MenuB_45
+  - first:
+      213: 3493118484681566597
+    second: Over_MenuB_46
+  - first:
+      213: -6594257723766464168
+    second: Over_MenuB_47
+  - first:
+      213: 5902806708552637433
+    second: Over_MenuB_48
+  - first:
+      213: -4949669005896354125
+    second: Over_MenuB_49
+  - first:
+      213: -7859061186564816443
+    second: Over_MenuB_50
+  - first:
+      213: -3023057063834255095
+    second: Over_MenuB_51
+  - first:
+      213: -6110612890759795328
+    second: Over_MenuB_52
+  - first:
+      213: 4609215190804417262
+    second: Over_MenuB_53
+  - first:
+      213: -1440244089048340469
+    second: Over_MenuB_54
+  - first:
+      213: -5422985781454398053
+    second: Over_MenuB_55
+  - first:
+      213: -680296502202439110
+    second: Over_MenuB_56
+  - first:
+      213: -7370362945047589388
+    second: Over_MenuB_57
+  - first:
+      213: -8991383537004437326
+    second: Over_MenuB_58
+  - first:
+      213: 39931540212105158
+    second: Over_MenuB_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Over_MenuB_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43120010ff5701590800000000000000
+      internalID: -7705529224337022668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d15a46cc8df0290800000000000000
+      internalID: -7921874847147942604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99960486198ccdea0800000000000000
+      internalID: -5846577689388881511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ea680c8b46c2c0800000000000000
+      internalID: -4411755720154093681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91ce5d23f6050f0800000000000000
+      internalID: -1130281242341926492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b95a89c60a0920800000000000000
+      internalID: 2957183568001478880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_6
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff9fb601605e9c10800000000000000
+      internalID: 2062174057037537264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c50e59b5a7dde40800000000000000
+      internalID: 5682832838586555474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_8
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eec5ede2ee25650800000000000000
+      internalID: 6220295920418614811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_9
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e9a7557b6250f0800000000000000
+      internalID: -1129722404790476029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_10
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edfc8e85a6149c40800000000000000
+      internalID: 5518060343752719848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_11
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 392
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f2daab8c316c80800000000000000
+      internalID: -8331311265094634153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6da8e883496deb0800000000000000
+      internalID: -4695402590856620358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77967ec457b0490800000000000000
+      internalID: -7778994958191986781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_14
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2742c22b4af3e400800000000000000
+      internalID: 352400396477679407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_15
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0dfeed8ecf263f0800000000000000
+      internalID: -908886097672548160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_16
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc15f99fe898140800000000000000
+      internalID: 4722462887045614632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_17
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb528e8d062ac220800000000000000
+      internalID: 2506857982252440523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_18
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f3f7888747a520800000000000000
+      internalID: 2713215952236049905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_19
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3ec001fdc52f20800000000000000
+      internalID: 3397347928905234975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_20
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9ff49df7baafed0800000000000000
+      internalID: -2379400887516792400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_21
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23effda8613d78d10800000000000000
+      internalID: 2127901442728525362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_22
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5337c3405a0cb50800000000000000
+      internalID: 6611465690592523772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_23
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 294
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9480676008e7c3270800000000000000
+      internalID: 8231593307255736393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d40aa23ea467de0800000000000000
+      internalID: -1335797899935593185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21eada753b5c210800000000000000
+      internalID: 1352684452252095207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_26
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d1b300752e4fc0800000000000000
+      internalID: -3508825896646486041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_27
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6373e13a84616d0800000000000000
+      internalID: -3020146634681534769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_28
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a08f13ee2aeaa0800000000000000
+      internalID: -6131036389690530575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_29
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613d13c557411c00800000000000000
+      internalID: 869554636730478953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_30
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c9cb78ff883680800000000000000
+      internalID: -8775105576539928391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_31
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ece9c3b500940ca0800000000000000
+      internalID: -6051553645113512735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_32
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3652471270e7bcf0800000000000000
+      internalID: -236473674792544705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_33
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3c652bc4e275d0800000000000000
+      internalID: -3066136835128542043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_34
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef3b453139d2500800000000000000
+      internalID: 373116055376363168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_35
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 196
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2b2ac637295380800000000000000
+      internalID: -8982104865540199929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9c04ba40313d00800000000000000
+      internalID: 950594093758324269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53246e1500f3763d0800000000000000
+      internalID: -3213530538498964939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45dd4f54bcde0350800000000000000
+      internalID: 5984963622073128269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_39
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56aad6af45903c0800000000000000
+      internalID: -4392886526964767271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_40
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ad6d611fb428b80800000000000000
+      internalID: -8394063256622802276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_41
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e818f859112d7da0800000000000000
+      internalID: -5945559540308633370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_42
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb95b3d207bfd10800000000000000
+      internalID: 2160443785825861067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_43
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427bb7526ffccff40800000000000000
+      internalID: 5763710279225161508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_44
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78df29e44a10770800000000000000
+      internalID: 8575315822870628300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_45
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc55ab6073a82390800000000000000
+      internalID: -7842839047828054822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_46
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589abc521cc0a7030800000000000000
+      internalID: 3493118484681566597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_47
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 98
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512681c98d7c74a0800000000000000
+      internalID: -6594257723766464168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb92115d6bfae150800000000000000
+      internalID: 5902806708552637433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b679cb734e3f4bb0800000000000000
+      internalID: -4949669005896354125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_50
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c18eba6d710fe290800000000000000
+      internalID: -7859061186564816443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_51
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018c660e91fb06d0800000000000000
+      internalID: -3023057063834255095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_52
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de65683fdb23ba0800000000000000
+      internalID: -6110612890759795328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_53
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4b3d9bc837ff30800000000000000
+      internalID: 4609215190804417262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_54
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ea6ab1a9330ce0800000000000000
+      internalID: -1440244089048340469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_55
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9a6af92fadb4b0800000000000000
+      internalID: -5422985781454398053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_56
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a68448fe91f86f0800000000000000
+      internalID: -680296502202439110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_57
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd8cba83f537b990800000000000000
+      internalID: -7370362945047589388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_58
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02e8dbf40383380800000000000000
+      internalID: -8991383537004437326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_MenuB_59
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 0
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3da5368ddd8000800000000000000
+      internalID: 39931540212105158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a89b0e273c7d0ce4db97a964d1a6a7c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

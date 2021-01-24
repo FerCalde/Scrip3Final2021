@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: d27c80eec0803fd4a9ccf461f405e271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6856552520571400939
+    second: PlayButton1_0
+  - first:
+      213: -308546012863256992
+    second: PlayButton1_1
+  - first:
+      213: -6561679351915506340
+    second: PlayButton1_2
+  - first:
+      213: -3344046879009849767
+    second: PlayButton1_3
+  - first:
+      213: 3936228649179152395
+    second: PlayButton1_4
+  - first:
+      213: 4134748042027192007
+    second: PlayButton1_5
+  - first:
+      213: -176332839307704022
+    second: PlayButton1_6
+  - first:
+      213: 6414963522152950276
+    second: PlayButton1_7
+  - first:
+      213: -7835045794809574010
+    second: PlayButton1_8
+  - first:
+      213: 2678656453209156326
+    second: PlayButton1_9
+  - first:
+      213: -4233000636392743357
+    second: PlayButton1_10
+  - first:
+      213: -7998623060056472411
+    second: PlayButton1_11
+  - first:
+      213: -6345702930947882156
+    second: PlayButton1_12
+  - first:
+      213: -8078610445918662333
+    second: PlayButton1_13
+  - first:
+      213: -3062716319102801802
+    second: PlayButton1_14
+  - first:
+      213: -8415286618459288842
+    second: PlayButton1_15
+  - first:
+      213: -1985128601601600132
+    second: PlayButton1_16
+  - first:
+      213: -3942178861093232694
+    second: PlayButton1_17
+  - first:
+      213: 8819921817333782994
+    second: PlayButton1_18
+  - first:
+      213: 8386917879605623926
+    second: PlayButton1_19
+  - first:
+      213: 8397190158152214703
+    second: PlayButton1_20
+  - first:
+      213: 4487289081683126834
+    second: PlayButton1_21
+  - first:
+      213: -1273389658316094181
+    second: PlayButton1_22
+  - first:
+      213: 8559176364293472030
+    second: PlayButton1_23
+  - first:
+      213: -7297580409192210078
+    second: PlayButton1_24
+  - first:
+      213: -3087571431865712981
+    second: PlayButton1_25
+  - first:
+      213: 7619404211103595321
+    second: PlayButton1_26
+  - first:
+      213: 2015426771157732770
+    second: PlayButton1_27
+  - first:
+      213: -6411937908114778198
+    second: PlayButton1_28
+  - first:
+      213: -8109066979509299918
+    second: PlayButton1_29
+  - first:
+      213: -8699324223576289131
+    second: PlayButton1_30
+  - first:
+      213: -2023358521479394310
+    second: PlayButton1_31
+  - first:
+      213: -5948073231073992518
+    second: PlayButton1_32
+  - first:
+      213: -8328814659633983404
+    second: PlayButton1_33
+  - first:
+      213: -1127242354916877368
+    second: PlayButton1_34
+  - first:
+      213: -3512099049452922140
+    second: PlayButton1_35
+  - first:
+      213: -3589983309614356806
+    second: PlayButton1_36
+  - first:
+      213: -3823026386191943712
+    second: PlayButton1_37
+  - first:
+      213: -7661178095268339826
+    second: PlayButton1_38
+  - first:
+      213: -820758713385083044
+    second: PlayButton1_39
+  - first:
+      213: 6438368146729120590
+    second: PlayButton1_40
+  - first:
+      213: -2745979208336900726
+    second: PlayButton1_41
+  - first:
+      213: -2710576938189978366
+    second: PlayButton1_42
+  - first:
+      213: -35265041020103483
+    second: PlayButton1_43
+  - first:
+      213: -2064380026795186050
+    second: PlayButton1_44
+  - first:
+      213: 5280250360905044907
+    second: PlayButton1_45
+  - first:
+      213: 2126064243928421173
+    second: PlayButton1_46
+  - first:
+      213: -585575813698944567
+    second: PlayButton1_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayButton1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2b77c903e572f50800000000000000
+      internalID: 6856552520571400939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_1
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662c6a3903d7bbf0800000000000000
+      internalID: -308546012863256992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_2
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c559f0b056b30f4a0800000000000000
+      internalID: -6561679351915506340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_3
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e3d50c41f8791d0800000000000000
+      internalID: -3344046879009849767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_4
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b000a05f91b40a630800000000000000
+      internalID: 3936228649179152395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_5
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cec5c8ff63916930800000000000000
+      internalID: 4134748042027192007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_6
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2904d6873a8d8df0800000000000000
+      internalID: -176332839307704022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_7
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ae301e557860950800000000000000
+      internalID: 6414963522152950276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_8
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d05798c53544390800000000000000
+      internalID: -7835045794809574010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_9
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae6d02adf7c2520800000000000000
+      internalID: 2678656453209156326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_10
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edecd395c5145c0800000000000000
+      internalID: -4233000636392743357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_11
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4061594be2ff090800000000000000
+      internalID: -7998623060056472411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45342b62ec88fe7a0800000000000000
+      internalID: -6345702930947882156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341124c0a9203ef80800000000000000
+      internalID: -8078610445918662333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_14
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e5181cbb0f75d0800000000000000
+      internalID: -3062716319102801802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_15
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac2a71865e63b80800000000000000
+      internalID: -8415286618459288842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_16
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759114fd086374e0800000000000000
+      internalID: -1985128601601600132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_17
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfdb7f56319a49c0800000000000000
+      internalID: -3942178861093232694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_18
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d5e4b928a66a70800000000000000
+      internalID: 8819921817333782994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_19
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf34e2061546470800000000000000
+      internalID: 8386917879605623926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_20
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a11865ffc88470800000000000000
+      internalID: 8397190158152214703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_21
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a263625ad064e30800000000000000
+      internalID: 4487289081683126834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_22
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c96b3ad2045ee0800000000000000
+      internalID: -1273389658316094181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_23
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb1ab0e8d48c670800000000000000
+      internalID: 8559176364293472030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261af363849c9ba90800000000000000
+      internalID: -7297580409192210078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_25
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefff0342eb625d0800000000000000
+      internalID: -3087571431865712981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_26
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf1fab2cf8db960800000000000000
+      internalID: 7619404211103595321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_27
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad4bad58fb38fb10800000000000000
+      internalID: 2015426771157732770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_28
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa715f8c1783407a0800000000000000
+      internalID: -6411937908114778198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_29
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359f7abb8ec67f80800000000000000
+      internalID: -8109066979509299918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_30
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d8cba5bac54780800000000000000
+      internalID: -8699324223576289131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_31
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb06f915269be3e0800000000000000
+      internalID: -2023358521479394310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_32
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab023db19e2347da0800000000000000
+      internalID: -5948073231073992518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_33
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450537ce13b1a6c80800000000000000
+      internalID: -8328814659633983404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_34
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb9763fc0b3b50f0800000000000000
+      internalID: -1127242354916877368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_35
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea1f5db584824fc0800000000000000
+      internalID: -3512099049452922140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ead05331dd2ec0800000000000000
+      internalID: -3589983309614356806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_37
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7751cc1c1e1fac0800000000000000
+      internalID: -3823026386191943712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_38
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd68eec170ea590800000000000000
+      internalID: -7661178095268339826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_39
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f106a7c441c94f0800000000000000
+      internalID: -820758713385083044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_40
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43bafea7bda95950800000000000000
+      internalID: 6438368146729120590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_41
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7876757254e9d0800000000000000
+      internalID: -2745979208336900726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_42
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20502dec2a8126ad0800000000000000
+      internalID: -2710576938189978366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_43
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d10dc1a6b28ff0800000000000000
+      internalID: -35265041020103483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_44
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78267d9d49d953e0800000000000000
+      internalID: -2064380026795186050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_45
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba39fde2ab7374940800000000000000
+      internalID: 5280250360905044907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_46
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533530d5a2c418d10800000000000000
+      internalID: 2126064243928421173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton1_47
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c10a6366ed9fd7f0800000000000000
+      internalID: -585575813698944567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4ace25166079e604dafe56a3755d11d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

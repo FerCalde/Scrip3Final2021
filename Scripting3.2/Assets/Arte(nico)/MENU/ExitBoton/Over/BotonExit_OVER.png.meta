@@ -1,0 +1,2278 @@
+fileFormatVersion: 2
+guid: cdda3663ca49f7c4191b8fff2f649dcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7225216168202774439
+    second: BotonExit_OVER_0
+  - first:
+      213: -2284058445748551712
+    second: BotonExit_OVER_1
+  - first:
+      213: -6986995977067874335
+    second: BotonExit_OVER_2
+  - first:
+      213: -3685532848744423889
+    second: BotonExit_OVER_3
+  - first:
+      213: 2617203786980868569
+    second: BotonExit_OVER_4
+  - first:
+      213: 5512200576690360296
+    second: BotonExit_OVER_5
+  - first:
+      213: 6655590220355165561
+    second: BotonExit_OVER_6
+  - first:
+      213: 3586449835909003333
+    second: BotonExit_OVER_7
+  - first:
+      213: 4099762508559486197
+    second: BotonExit_OVER_8
+  - first:
+      213: 5943694114607470164
+    second: BotonExit_OVER_9
+  - first:
+      213: 2123917858011730891
+    second: BotonExit_OVER_10
+  - first:
+      213: -7751427912110632952
+    second: BotonExit_OVER_11
+  - first:
+      213: 8350354565979921160
+    second: BotonExit_OVER_12
+  - first:
+      213: -7618483666213859354
+    second: BotonExit_OVER_13
+  - first:
+      213: 5481998525482287434
+    second: BotonExit_OVER_14
+  - first:
+      213: -5047292555843207953
+    second: BotonExit_OVER_15
+  - first:
+      213: -2712067564104199889
+    second: BotonExit_OVER_16
+  - first:
+      213: 3737286105858255431
+    second: BotonExit_OVER_17
+  - first:
+      213: 2965915618310270378
+    second: BotonExit_OVER_18
+  - first:
+      213: -7275089884327771197
+    second: BotonExit_OVER_19
+  - first:
+      213: 6707267853902687707
+    second: BotonExit_OVER_20
+  - first:
+      213: -7438985462937271883
+    second: BotonExit_OVER_21
+  - first:
+      213: 4008375907226995823
+    second: BotonExit_OVER_22
+  - first:
+      213: 3026658891189552896
+    second: BotonExit_OVER_23
+  - first:
+      213: 5174900109285105656
+    second: BotonExit_OVER_24
+  - first:
+      213: 6878382842060336519
+    second: BotonExit_OVER_25
+  - first:
+      213: 8435578906293170787
+    second: BotonExit_OVER_26
+  - first:
+      213: -9197477636657390205
+    second: BotonExit_OVER_27
+  - first:
+      213: 1064995805418777136
+    second: BotonExit_OVER_28
+  - first:
+      213: -7848165387465089586
+    second: BotonExit_OVER_29
+  - first:
+      213: -3566958525833341976
+    second: BotonExit_OVER_30
+  - first:
+      213: 2180273639124388934
+    second: BotonExit_OVER_31
+  - first:
+      213: 8312304631380061718
+    second: BotonExit_OVER_32
+  - first:
+      213: -5448162120496181513
+    second: BotonExit_OVER_33
+  - first:
+      213: 6011972105327391627
+    second: BotonExit_OVER_34
+  - first:
+      213: -5050009251451020255
+    second: BotonExit_OVER_35
+  - first:
+      213: -6613087757940348152
+    second: BotonExit_OVER_36
+  - first:
+      213: -4776916201489687988
+    second: BotonExit_OVER_37
+  - first:
+      213: 1657607952571697254
+    second: BotonExit_OVER_38
+  - first:
+      213: 957728137877285076
+    second: BotonExit_OVER_39
+  - first:
+      213: -8612146564833837037
+    second: BotonExit_OVER_40
+  - first:
+      213: 8679013891014564986
+    second: BotonExit_OVER_41
+  - first:
+      213: 5104469072844614280
+    second: BotonExit_OVER_42
+  - first:
+      213: -7115239727343430916
+    second: BotonExit_OVER_43
+  - first:
+      213: -2818147962374528563
+    second: BotonExit_OVER_44
+  - first:
+      213: 6435475216529147942
+    second: BotonExit_OVER_45
+  - first:
+      213: 8799934365360456254
+    second: BotonExit_OVER_46
+  - first:
+      213: -1604647852183009347
+    second: BotonExit_OVER_47
+  - first:
+      213: 9184890676162143337
+    second: BotonExit_OVER_48
+  - first:
+      213: 4129274665478422921
+    second: BotonExit_OVER_49
+  - first:
+      213: -4987522065711326536
+    second: BotonExit_OVER_50
+  - first:
+      213: -6042438612577363141
+    second: BotonExit_OVER_51
+  - first:
+      213: 7936316536840086365
+    second: BotonExit_OVER_52
+  - first:
+      213: 7596902707091852158
+    second: BotonExit_OVER_53
+  - first:
+      213: 5859301166368609227
+    second: BotonExit_OVER_54
+  - first:
+      213: -3945785762514731743
+    second: BotonExit_OVER_55
+  - first:
+      213: 6474801144940154237
+    second: BotonExit_OVER_56
+  - first:
+      213: 8413925263992553882
+    second: BotonExit_OVER_57
+  - first:
+      213: -6476370893472362059
+    second: BotonExit_OVER_58
+  - first:
+      213: -3239468573613687459
+    second: BotonExit_OVER_59
+  - first:
+      213: 2064866945327500530
+    second: BotonExit_OVER_60
+  - first:
+      213: 7266278005002447611
+    second: BotonExit_OVER_61
+  - first:
+      213: 699240091683801399
+    second: BotonExit_OVER_62
+  - first:
+      213: 6479134651330003429
+    second: BotonExit_OVER_63
+  - first:
+      213: 3693984302302195534
+    second: BotonExit_OVER_64
+  - first:
+      213: 2839534858550763769
+    second: BotonExit_OVER_65
+  - first:
+      213: 6075033141885252774
+    second: BotonExit_OVER_66
+  - first:
+      213: 1459075625348762697
+    second: BotonExit_OVER_67
+  - first:
+      213: 2511502968417240105
+    second: BotonExit_OVER_68
+  - first:
+      213: 857434485046729454
+    second: BotonExit_OVER_69
+  - first:
+      213: 8750476515827268171
+    second: BotonExit_OVER_70
+  - first:
+      213: -6553899969423681069
+    second: BotonExit_OVER_71
+  - first:
+      213: 3728108105578402741
+    second: BotonExit_OVER_72
+  - first:
+      213: -5170887871141355814
+    second: BotonExit_OVER_73
+  - first:
+      213: 7234851334867102808
+    second: BotonExit_OVER_74
+  - first:
+      213: 1812612992251086664
+    second: BotonExit_OVER_75
+  - first:
+      213: 5635213483030826305
+    second: BotonExit_OVER_76
+  - first:
+      213: -4586786640683243342
+    second: BotonExit_OVER_77
+  - first:
+      213: 4358702416919578176
+    second: BotonExit_OVER_78
+  - first:
+      213: 3431041355978772914
+    second: BotonExit_OVER_79
+  - first:
+      213: 1044117972424784582
+    second: BotonExit_OVER_80
+  - first:
+      213: -5057381885224539940
+    second: BotonExit_OVER_81
+  - first:
+      213: -4094319858111434030
+    second: BotonExit_OVER_82
+  - first:
+      213: -8532796799669235233
+    second: BotonExit_OVER_83
+  - first:
+      213: -4742181023703272946
+    second: BotonExit_OVER_84
+  - first:
+      213: 763692102122715089
+    second: BotonExit_OVER_85
+  - first:
+      213: -5448834314939040891
+    second: BotonExit_OVER_86
+  - first:
+      213: -4465594012789692018
+    second: BotonExit_OVER_87
+  - first:
+      213: 1412768650752158906
+    second: BotonExit_OVER_88
+  - first:
+      213: 1487628245318419584
+    second: BotonExit_OVER_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BotonExit_OVER_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a22bf2df154460800000000000000
+      internalID: 7225216168202774439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3deee1f46d40e0800000000000000
+      internalID: -2284058445748551712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_2
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e739c37d24390f90800000000000000
+      internalID: -6986995977067874335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_3
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1e8e966b5adcc0800000000000000
+      internalID: -3685532848744423889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_4
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14dcb4afc225420800000000000000
+      internalID: 2617203786980868569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_5
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef055838354f7c40800000000000000
+      internalID: 5512200576690360296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_6
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d55d6ea086d5c50800000000000000
+      internalID: 6655590220355165561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_7
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5483d1abf11a5c130800000000000000
+      internalID: 3586449835909003333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_8
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0722b74845e830800000000000000
+      internalID: 4099762508559486197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_9
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45612c26e4e3c7250800000000000000
+      internalID: 5943694114607470164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_10
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d5e2f90ca97d10800000000000000
+      internalID: 2123917858011730891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_11
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800199cf1656d6490800000000000000
+      internalID: -7751427912110632952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5bc55c3b62e370800000000000000
+      internalID: 8350354565979921160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef05345875b54690800000000000000
+      internalID: -7618483666213859354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_14
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4146923d98f31c40800000000000000
+      internalID: 5481998525482287434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_15
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfd73892a64f9b0800000000000000
+      internalID: -5047292555843207953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_16
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d5ba6beccc5ad0800000000000000
+      internalID: -2712067564104199889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_17
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2fab89e18dd330800000000000000
+      internalID: 3737286105858255431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_18
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadaa2f6a8c092920800000000000000
+      internalID: 2965915618310270378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_19
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c30b979b40b90b90800000000000000
+      internalID: -7275089884327771197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_20
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd24459390051d50800000000000000
+      internalID: 6707267853902687707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_21
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14458822a63c890800000000000000
+      internalID: -7438985462937271883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_22
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ccf7c76ac90a730800000000000000
+      internalID: 4008375907226995823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_23
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00781a1c93ad00a20800000000000000
+      internalID: 3026658891189552896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff911a4b30f0d740800000000000000
+      internalID: 5174900109285105656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_25
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de52a60cce47f50800000000000000
+      internalID: 6878382842060336519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_26
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f1685252311570800000000000000
+      internalID: 8435578906293170787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_27
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ddf6dd1defb5080800000000000000
+      internalID: -9197477636657390205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_28
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a644dda00a7ce00800000000000000
+      internalID: 1064995805418777136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_29
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd90a55927b51390800000000000000
+      internalID: -7848165387465089586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_30
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3172b8e1e9f7ec0800000000000000
+      internalID: -3566958525833341976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_31
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c482db253e14e10800000000000000
+      internalID: 2180273639124388934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_32
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e2e32950d3b5370800000000000000
+      internalID: 8312304631380061718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_33
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0611ca6d3464b0800000000000000
+      internalID: -5448162120496181513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_34
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b899e6c0de6350800000000000000
+      internalID: 6011972105327391627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_35
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c53d68753cae9b0800000000000000
+      internalID: -5050009251451020255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2b77c8b79934a0800000000000000
+      internalID: -6613087757940348152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a1660260cf4bdb0800000000000000
+      internalID: -4776916201489687988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_38
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66806e586a1010710800000000000000
+      internalID: 1657607952571697254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_39
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86299caa88a4d00800000000000000
+      internalID: 957728137877285076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_40
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108a7114528b7880800000000000000
+      internalID: -8612146564833837037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_41
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c9a96862d027870800000000000000
+      internalID: 8679013891014564986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_42
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aeeddb397b6d640800000000000000
+      internalID: 5104469072844614280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_43
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf292f78a27914d90800000000000000
+      internalID: -7115239727343430916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_44
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1ec220c5de3e8d0800000000000000
+      internalID: -2818147962374528563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_45
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628cc02ec966f4950800000000000000
+      internalID: 6435475216529147942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_46
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3200166ea5af1a70800000000000000
+      internalID: 8799934365360456254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_47
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c90db7452bb9e0800000000000000
+      internalID: -1604647852183009347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96421750869477f70800000000000000
+      internalID: 9184890676162143337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_49
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818cdf2e612e4930800000000000000
+      internalID: 4129274665478422921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_50
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba9ad33b13c8cab0800000000000000
+      internalID: -4987522065711326536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_51
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd8389812f42ca0800000000000000
+      internalID: -6042438612577363141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_52
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53696387d5732e60800000000000000
+      internalID: 7936316536840086365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_53
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc96113ce9d6960800000000000000
+      internalID: 7596902707091852158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_54
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3de6ded5b605150800000000000000
+      internalID: 5859301166368609227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_55
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df38131c0cd39c0800000000000000
+      internalID: -3945785762514731743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_56
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d437b165d1bd950800000000000000
+      internalID: 6474801144940154237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_57
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9106fed27444c470800000000000000
+      internalID: 8413925263992553882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_58
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b196e45cfe4f16a0800000000000000
+      internalID: -6476370893472362059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_59
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df6b8ee781b03d0800000000000000
+      internalID: -3239468573613687459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc01b0fb81e7ac10800000000000000
+      internalID: 2064866945327500530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa76fd85107d460800000000000000
+      internalID: 7266278005002447611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_62
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739468d982334b900800000000000000
+      internalID: 699240091683801399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_63
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1037033a28ae950800000000000000
+      internalID: 6479134651330003429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_64
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f6790c62ba34330800000000000000
+      internalID: 3693984302302195534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_65
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0e14bc8ed086720800000000000000
+      internalID: 2839534858550763769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_66
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4bbc4a47ade4450800000000000000
+      internalID: 6075033141885252774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_67
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c085dfc8daf3410800000000000000
+      internalID: 1459075625348762697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_68
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92449dca4a6aad220800000000000000
+      internalID: 2511502968417240105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_69
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea516b0f1836eb00800000000000000
+      internalID: 857434485046729454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_70
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a38457700ff6970800000000000000
+      internalID: 8750476515827268171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_71
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9de0da3bedb05a0800000000000000
+      internalID: -6553899969423681069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35145d196ecb330800000000000000
+      internalID: 3728108105578402741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_73
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5e33b0e05d38b0800000000000000
+      internalID: -5170887871141355814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_74
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca38905fa576460800000000000000
+      internalID: 7234851334867102808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_75
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847426ea9e1b72910800000000000000
+      internalID: 1812612992251086664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_76
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4b816ecc443e40800000000000000
+      internalID: 5635213483030826305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_77
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b861952ad57850c0800000000000000
+      internalID: -4586786640683243342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_78
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c02a31c83d7c30800000000000000
+      internalID: 4358702416919578176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_79
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11ac05fe18d9f20800000000000000
+      internalID: 3431041355978772914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_80
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cafaf193c37d7e00800000000000000
+      internalID: 1044117972424784582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_81
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd822b578f190d9b0800000000000000
+      internalID: -5057381885224539940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_82
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2b07c18cd0e27c0800000000000000
+      internalID: -4094319858111434030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_83
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd11027f48a659980800000000000000
+      internalID: -8532796799669235233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02719deb73603eb0800000000000000
+      internalID: -4742181023703272946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_85
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bbc0bbed299a00800000000000000
+      internalID: 763692102122715089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_86
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b791a4f0ad164b0800000000000000
+      internalID: -5448834314939040891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_87
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892f84b7e50702c0800000000000000
+      internalID: -4465594012789692018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_88
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce3e94a992b9310800000000000000
+      internalID: 1412768650752158906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonExit_OVER_89
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084ca00e10e15a410800000000000000
+      internalID: 1487628245318419584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 87ad2851a66f9ff4ba26054f32d2f574
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

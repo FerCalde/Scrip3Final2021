@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 9ed523bcae2683b40812120aed2ab0b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5736996495233995643
+    second: Over_PlayButton_0
+  - first:
+      213: 4861434301712206849
+    second: Over_PlayButton_1
+  - first:
+      213: 3545336960198761846
+    second: Over_PlayButton_2
+  - first:
+      213: -5752050952173169688
+    second: Over_PlayButton_3
+  - first:
+      213: 4666906384672196588
+    second: Over_PlayButton_4
+  - first:
+      213: -8773602080384509525
+    second: Over_PlayButton_5
+  - first:
+      213: 4239838838154581469
+    second: Over_PlayButton_6
+  - first:
+      213: 566751419470225419
+    second: Over_PlayButton_7
+  - first:
+      213: -1094604016558785843
+    second: Over_PlayButton_8
+  - first:
+      213: -4574511053058062058
+    second: Over_PlayButton_9
+  - first:
+      213: 5655890422159001214
+    second: Over_PlayButton_10
+  - first:
+      213: -5032841548936877526
+    second: Over_PlayButton_11
+  - first:
+      213: 6056275979436160196
+    second: Over_PlayButton_12
+  - first:
+      213: 1383248889383172640
+    second: Over_PlayButton_13
+  - first:
+      213: 3321227340380122812
+    second: Over_PlayButton_14
+  - first:
+      213: 451690328149077201
+    second: Over_PlayButton_15
+  - first:
+      213: -7853281277972742389
+    second: Over_PlayButton_16
+  - first:
+      213: -1659857886714636979
+    second: Over_PlayButton_17
+  - first:
+      213: -5766326267773029120
+    second: Over_PlayButton_18
+  - first:
+      213: 1577872271811754201
+    second: Over_PlayButton_19
+  - first:
+      213: -8707101463004228597
+    second: Over_PlayButton_20
+  - first:
+      213: 2100356135386834129
+    second: Over_PlayButton_21
+  - first:
+      213: 4273777441653094343
+    second: Over_PlayButton_22
+  - first:
+      213: -5299353088857189034
+    second: Over_PlayButton_23
+  - first:
+      213: 4553256942320224086
+    second: Over_PlayButton_24
+  - first:
+      213: 8170389916916904509
+    second: Over_PlayButton_25
+  - first:
+      213: 8027995447321467483
+    second: Over_PlayButton_26
+  - first:
+      213: -1339810786269787959
+    second: Over_PlayButton_27
+  - first:
+      213: 774424338834795791
+    second: Over_PlayButton_28
+  - first:
+      213: 2068390153282565576
+    second: Over_PlayButton_29
+  - first:
+      213: 2122194012469357965
+    second: Over_PlayButton_30
+  - first:
+      213: -8987353024987921757
+    second: Over_PlayButton_31
+  - first:
+      213: -8422081431547334016
+    second: Over_PlayButton_32
+  - first:
+      213: -5523726267061807392
+    second: Over_PlayButton_33
+  - first:
+      213: -6464470697473695580
+    second: Over_PlayButton_34
+  - first:
+      213: 7793365393097806028
+    second: Over_PlayButton_35
+  - first:
+      213: -4855234945517532341
+    second: Over_PlayButton_36
+  - first:
+      213: 421081836422399788
+    second: Over_PlayButton_37
+  - first:
+      213: 1519304164970626427
+    second: Over_PlayButton_38
+  - first:
+      213: -4782158733266638127
+    second: Over_PlayButton_39
+  - first:
+      213: -3914939524430536643
+    second: Over_PlayButton_40
+  - first:
+      213: -3582238043523792133
+    second: Over_PlayButton_41
+  - first:
+      213: 367520600758895277
+    second: Over_PlayButton_42
+  - first:
+      213: -2775078013199526693
+    second: Over_PlayButton_43
+  - first:
+      213: -3336927828815367513
+    second: Over_PlayButton_44
+  - first:
+      213: 3317148417403807630
+    second: Over_PlayButton_45
+  - first:
+      213: 3432417439281231474
+    second: Over_PlayButton_46
+  - first:
+      213: 5002417638709937215
+    second: Over_PlayButton_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Over_PlayButton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58caaef55181260b0800000000000000
+      internalID: -5736996495233995643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_1
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c847c8db8477340800000000000000
+      internalID: 4861434301712206849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_2
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd5b96e21933130800000000000000
+      internalID: 3545336960198761846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_3
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e355c9722c9c20b0800000000000000
+      internalID: -5752050952173169688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_4
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7836a61ae24c040800000000000000
+      internalID: 4666906384672196588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_5
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba99d067467ed3680800000000000000
+      internalID: -8773602080384509525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_6
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5db1da5fee6da30800000000000000
+      internalID: 4239838838154581469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_7
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a879c9618dd700800000000000000
+      internalID: 566751419470225419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_8
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3c47427f2fc0f0800000000000000
+      internalID: -1094604016558785843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_9
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619406d1f621480c0800000000000000
+      internalID: -4574511053058062058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_10
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76425d6f52cd7e40800000000000000
+      internalID: 5655890422159001214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_11
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 2859
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6ac0c641c72ab0800000000000000
+      internalID: -5032841548936877526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f5007ae63c0450800000000000000
+      internalID: 6056275979436160196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a33af3989423310800000000000000
+      internalID: 1383248889383172640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_14
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2ca16bae571e20800000000000000
+      internalID: 3321227340380122812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_15
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2ec5d5f9b44600800000000000000
+      internalID: 451690328149077201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_16
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7531494a830390800000000000000
+      internalID: -7853281277972742389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_17
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d455ebcdb0007f8e0800000000000000
+      internalID: -1659857886714636979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_18
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005726e8fc4e9ffa0800000000000000
+      internalID: -5766326267773029120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_19
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d83746a87ab5e510800000000000000
+      internalID: 1577872271811754201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_20
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0459520a592a2780800000000000000
+      internalID: -8707101463004228597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_21
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d46b87e6c6f52d10800000000000000
+      internalID: 2100356135386834129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_22
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77fc290f18f4b30800000000000000
+      internalID: 4273777441653094343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_23
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 1906
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6555c4f517ae476b0800000000000000
+      internalID: -5299353088857189034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657041a901b603f30800000000000000
+      internalID: 4553256942320224086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_25
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32f342475e036170800000000000000
+      internalID: 8170389916916904509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_26
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9c00435b296f60800000000000000
+      internalID: 8027995447321467483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_27
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c807224039086de0800000000000000
+      internalID: -1339810786269787959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_28
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2aa545de4fba00800000000000000
+      internalID: 774424338834795791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_29
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5b257b2e564bc10800000000000000
+      internalID: 2068390153282565576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_30
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d62b1e53c837d10800000000000000
+      internalID: 2122194012469357965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_31
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a200927a02864380800000000000000
+      internalID: -8987353024987921757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_32
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08235336f81ce1b80800000000000000
+      internalID: -8422081431547334016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_33
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6594fd938c753b0800000000000000
+      internalID: -5523726267061807392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_34
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a820a6269946a0800000000000000
+      internalID: -6464470697473695580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_35
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 953
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0da64b888972c60800000000000000
+      internalID: 7793365393097806028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4d5b8a8dbe9cb0800000000000000
+      internalID: -4855234945517532341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_37
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27835103bbf7d500800000000000000
+      internalID: 421081836422399788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_38
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d78d2a617a51510800000000000000
+      internalID: 1519304164970626427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_39
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da2c1418fb52adb0800000000000000
+      internalID: -4782158733266638127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_40
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d306e29ae375ba9c0800000000000000
+      internalID: -3914939524430536643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_41
+      rect:
+        serializedVersion: 2
+        x: 4835
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2cfda9a75594ec0800000000000000
+      internalID: -3582238043523792133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_42
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24fd70a02b91500800000000000000
+      internalID: 367520600758895277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_43
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4de3fff31fc79d0800000000000000
+      internalID: -2775078013199526693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_44
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2385ac1d9d0b1d0800000000000000
+      internalID: -3336927828815367513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_45
+      rect:
+        serializedVersion: 2
+        x: 8703
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e876a9e19e0e80e20800000000000000
+      internalID: 3317148417403807630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_46
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b63da97562af20800000000000000
+      internalID: 3432417439281231474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Over_PlayButton_47
+      rect:
+        serializedVersion: 2
+        x: 10637
+        y: 0
+        width: 967
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f344475a6582c6540800000000000000
+      internalID: 5002417638709937215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa54499a280e7f94aae47136c25d0338
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

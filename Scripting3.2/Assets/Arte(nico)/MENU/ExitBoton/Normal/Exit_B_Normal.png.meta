@@ -1,0 +1,2278 @@
+fileFormatVersion: 2
+guid: b909e08dc1c7ea149b8a031182416428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9102634101747869245
+    second: Exit_B_Normal_0
+  - first:
+      213: 4017003163850187716
+    second: Exit_B_Normal_1
+  - first:
+      213: 7238517175525787823
+    second: Exit_B_Normal_2
+  - first:
+      213: -8005997418479279956
+    second: Exit_B_Normal_3
+  - first:
+      213: 4347648269997130663
+    second: Exit_B_Normal_4
+  - first:
+      213: 5205525444448740477
+    second: Exit_B_Normal_5
+  - first:
+      213: 427272229746674653
+    second: Exit_B_Normal_6
+  - first:
+      213: -600118894639995687
+    second: Exit_B_Normal_7
+  - first:
+      213: -5566101866661194189
+    second: Exit_B_Normal_8
+  - first:
+      213: -8318464971634585839
+    second: Exit_B_Normal_9
+  - first:
+      213: 5467787691313138330
+    second: Exit_B_Normal_10
+  - first:
+      213: -8446577660665819962
+    second: Exit_B_Normal_11
+  - first:
+      213: 5122434574103616404
+    second: Exit_B_Normal_12
+  - first:
+      213: 6302173216362900943
+    second: Exit_B_Normal_13
+  - first:
+      213: -3538053988399272344
+    second: Exit_B_Normal_14
+  - first:
+      213: -4082106654700604349
+    second: Exit_B_Normal_15
+  - first:
+      213: -8969800255579372895
+    second: Exit_B_Normal_16
+  - first:
+      213: -7868075348168508228
+    second: Exit_B_Normal_17
+  - first:
+      213: -6720706404438426874
+    second: Exit_B_Normal_18
+  - first:
+      213: 5531030723793981130
+    second: Exit_B_Normal_19
+  - first:
+      213: 4773069208693910139
+    second: Exit_B_Normal_20
+  - first:
+      213: 3762686134681912636
+    second: Exit_B_Normal_21
+  - first:
+      213: -7580375960985487756
+    second: Exit_B_Normal_22
+  - first:
+      213: -1878267078357524679
+    second: Exit_B_Normal_23
+  - first:
+      213: -2799924847801903154
+    second: Exit_B_Normal_24
+  - first:
+      213: -4383208367601403580
+    second: Exit_B_Normal_25
+  - first:
+      213: 5267806132079949008
+    second: Exit_B_Normal_26
+  - first:
+      213: -8613278999440917493
+    second: Exit_B_Normal_27
+  - first:
+      213: -7797632864726800521
+    second: Exit_B_Normal_28
+  - first:
+      213: -5094353246540550450
+    second: Exit_B_Normal_29
+  - first:
+      213: -7286497633329813367
+    second: Exit_B_Normal_30
+  - first:
+      213: -2760186070147075874
+    second: Exit_B_Normal_31
+  - first:
+      213: 3785890179709045418
+    second: Exit_B_Normal_32
+  - first:
+      213: -7610491104660688078
+    second: Exit_B_Normal_33
+  - first:
+      213: -7573829912845845561
+    second: Exit_B_Normal_34
+  - first:
+      213: -7171403298361469686
+    second: Exit_B_Normal_35
+  - first:
+      213: -8596418299570938369
+    second: Exit_B_Normal_36
+  - first:
+      213: 1824732332503788670
+    second: Exit_B_Normal_37
+  - first:
+      213: -109364914871645851
+    second: Exit_B_Normal_38
+  - first:
+      213: 7353304155159948258
+    second: Exit_B_Normal_39
+  - first:
+      213: -5234211491003928853
+    second: Exit_B_Normal_40
+  - first:
+      213: -3229130255832268872
+    second: Exit_B_Normal_41
+  - first:
+      213: -5376956988839306430
+    second: Exit_B_Normal_42
+  - first:
+      213: -4819949611035260856
+    second: Exit_B_Normal_43
+  - first:
+      213: -7158527987894338303
+    second: Exit_B_Normal_44
+  - first:
+      213: -8351532370146038173
+    second: Exit_B_Normal_45
+  - first:
+      213: -5151200257505644649
+    second: Exit_B_Normal_46
+  - first:
+      213: -8229184636907623168
+    second: Exit_B_Normal_47
+  - first:
+      213: 5100189806593373130
+    second: Exit_B_Normal_48
+  - first:
+      213: 3299315616931564215
+    second: Exit_B_Normal_49
+  - first:
+      213: 4906199928836845059
+    second: Exit_B_Normal_50
+  - first:
+      213: -8884291661101463179
+    second: Exit_B_Normal_51
+  - first:
+      213: -1818722257196397103
+    second: Exit_B_Normal_52
+  - first:
+      213: -238595527309713823
+    second: Exit_B_Normal_53
+  - first:
+      213: 7858208860746788143
+    second: Exit_B_Normal_54
+  - first:
+      213: -5051914838400065280
+    second: Exit_B_Normal_55
+  - first:
+      213: 8741961996069131888
+    second: Exit_B_Normal_56
+  - first:
+      213: -7105260216331033223
+    second: Exit_B_Normal_57
+  - first:
+      213: 560446220900101890
+    second: Exit_B_Normal_58
+  - first:
+      213: 255652473850420998
+    second: Exit_B_Normal_59
+  - first:
+      213: -8395367096338056486
+    second: Exit_B_Normal_60
+  - first:
+      213: -361484937959905112
+    second: Exit_B_Normal_61
+  - first:
+      213: 4477874477640530332
+    second: Exit_B_Normal_62
+  - first:
+      213: -4392813087059764266
+    second: Exit_B_Normal_63
+  - first:
+      213: -1236872588279807600
+    second: Exit_B_Normal_64
+  - first:
+      213: 9144557666516554451
+    second: Exit_B_Normal_65
+  - first:
+      213: -1263497837854943960
+    second: Exit_B_Normal_66
+  - first:
+      213: 1406661592812482001
+    second: Exit_B_Normal_67
+  - first:
+      213: -9072389716152441550
+    second: Exit_B_Normal_68
+  - first:
+      213: 1036886503882728250
+    second: Exit_B_Normal_69
+  - first:
+      213: 2669243335572118535
+    second: Exit_B_Normal_70
+  - first:
+      213: 1876824056766693896
+    second: Exit_B_Normal_71
+  - first:
+      213: 3944163510538736987
+    second: Exit_B_Normal_72
+  - first:
+      213: 8607873104685375655
+    second: Exit_B_Normal_73
+  - first:
+      213: -3827987863294015418
+    second: Exit_B_Normal_74
+  - first:
+      213: -6830055373994121509
+    second: Exit_B_Normal_75
+  - first:
+      213: 8148522671760803593
+    second: Exit_B_Normal_76
+  - first:
+      213: -6471915497736796768
+    second: Exit_B_Normal_77
+  - first:
+      213: -4680864953084582074
+    second: Exit_B_Normal_78
+  - first:
+      213: -7680211530984266888
+    second: Exit_B_Normal_79
+  - first:
+      213: 8845111839672123412
+    second: Exit_B_Normal_80
+  - first:
+      213: -7122584834465126613
+    second: Exit_B_Normal_81
+  - first:
+      213: -13868967284513497
+    second: Exit_B_Normal_82
+  - first:
+      213: 2168944253967498985
+    second: Exit_B_Normal_83
+  - first:
+      213: 4098824898779804642
+    second: Exit_B_Normal_84
+  - first:
+      213: -8128445838422124812
+    second: Exit_B_Normal_85
+  - first:
+      213: 2236353835808370946
+    second: Exit_B_Normal_86
+  - first:
+      213: 807812627682637881
+    second: Exit_B_Normal_87
+  - first:
+      213: -8461853517363178732
+    second: Exit_B_Normal_88
+  - first:
+      213: -6580402344162502237
+    second: Exit_B_Normal_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit_B_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e90bdc7d035e70800000000000000
+      internalID: 9102634101747869245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c329e238134fb730800000000000000
+      internalID: 4017003163850187716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa847c31501647460800000000000000
+      internalID: 7238517175525787823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca029d6f3cbf4e090800000000000000
+      internalID: -8005997418479279956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a345851113f55c30800000000000000
+      internalID: 4347648269997130663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ef99cfcdbd3840800000000000000
+      internalID: 5205525444448740477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb807444d9fde500800000000000000
+      internalID: 427272229746674653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_7
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4abfd7b03fba7f0800000000000000
+      internalID: -600118894639995687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_8
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336550eb7db31c2b0800000000000000
+      internalID: -5566101866661194189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_9
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc0317e20ee8c80800000000000000
+      internalID: -8318464971634585839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_10
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a09f78feb71eb40800000000000000
+      internalID: 5467787691313138330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_11
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 6860
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc83489e5ab7ca80800000000000000
+      internalID: -8446577660665819962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b10a6fa1b861740800000000000000
+      internalID: 5122434574103616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdaa426621d57750800000000000000
+      internalID: 6302173216362900943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_14
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eae4994ae46eec0800000000000000
+      internalID: -3538053988399272344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_15
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ff4f10a17957c0800000000000000
+      internalID: -4082106654700604349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_16
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2cbfb013ed48380800000000000000
+      internalID: -8969800255579372895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_17
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc786e582bfec290800000000000000
+      internalID: -7868075348168508228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_18
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b31cb02214bb2a0800000000000000
+      internalID: -6720706404438426874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_19
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace038d732b22cc40800000000000000
+      internalID: 5531030723793981130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_20
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2e8018295d3240800000000000000
+      internalID: 4773069208693910139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_21
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c00b9a1fb73430800000000000000
+      internalID: 3762686134681912636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_22
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bc8dd9381dc690800000000000000
+      internalID: -7580375960985487756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_23
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 5880
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f50313b0e0fe5e0800000000000000
+      internalID: -1878267078357524679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75af08f2ba429d0800000000000000
+      internalID: -2799924847801903154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_25
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44939908637bb23c0800000000000000
+      internalID: -4383208367601403580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_26
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ff3064c10b1940800000000000000
+      internalID: 5267806132079949008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_27
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cfdf6926c777880800000000000000
+      internalID: -8613278999440917493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_28
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772c01293e39c390800000000000000
+      internalID: -7797632864726800521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_29
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea79b96b83d49b0800000000000000
+      internalID: -5094353246540550450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_30
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988e6ac020921ea90800000000000000
+      internalID: -7286497633329813367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_31
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f6eea469d1b9d0800000000000000
+      internalID: -2760186070147075874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_32
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa82385f0f2a8430800000000000000
+      internalID: 3785890179709045418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_33
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fd6499aa126690800000000000000
+      internalID: -7610491104660688078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_34
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb789772d954e690800000000000000
+      internalID: -7573829912845845561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_35
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 4900
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05991422be0a7c90800000000000000
+      internalID: -7171403298361469686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd18613a1363b880800000000000000
+      internalID: -8596418299570938369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cee097360c25910800000000000000
+      internalID: 1824732332503788670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_38
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694f2a70357b7ef0800000000000000
+      internalID: -109364914871645851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_39
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb66bd6b2f2c0660800000000000000
+      internalID: 7353304155159948258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_40
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee617781685c57b0800000000000000
+      internalID: -5234211491003928853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_41
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfb6a71423df23d0800000000000000
+      internalID: -3229130255832268872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_42
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdda36b163165b0800000000000000
+      internalID: -5376956988839306430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_43
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84806fead591c1db0800000000000000
+      internalID: -4819949611035260856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_44
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dbdd6f8bcc7ac90800000000000000
+      internalID: -7158527987894338303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_45
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ee443ce85691c80800000000000000
+      internalID: -8351532370146038173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_46
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa97478a24388b0800000000000000
+      internalID: -5151200257505644649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_47
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 3920
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de40e3c201ccd80800000000000000
+      internalID: -8229184636907623168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f01d6b9387c640800000000000000
+      internalID: 5100189806593373130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_49
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baca15b21689cd20800000000000000
+      internalID: 3299315616931564215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_50
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eed5357d2561440800000000000000
+      internalID: 4906199928836845059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_51
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57905132ec7a4b480800000000000000
+      internalID: -8884291661101463179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_52
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd46ba3eb992c6e0800000000000000
+      internalID: -1818722257196397103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_53
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e15bdc1a650bcf0800000000000000
+      internalID: -238595527309713823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_54
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da3a30357fd0d60800000000000000
+      internalID: 7858208860746788143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_55
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a3ad783ef3e9b0800000000000000
+      internalID: -5051914838400065280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_56
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0765aa75e10b15970800000000000000
+      internalID: 8741961996069131888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_57
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975afd08a7b056d90800000000000000
+      internalID: -7105260216331033223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_58
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe5785eda17c700800000000000000
+      internalID: 560446220900101890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_59
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 2940
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fddc902924c8300800000000000000
+      internalID: 255652473850420998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada74cf3b1aad7b80800000000000000
+      internalID: -8395367096338056486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ee393d5fbbfaf0800000000000000
+      internalID: -361484937959905112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_62
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c993d84dc1b942e30800000000000000
+      internalID: 4477874477640530332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_63
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9d1d75c79903c0800000000000000
+      internalID: -4392813087059764266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_64
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910a272feeb5dee0800000000000000
+      internalID: -1236872588279807600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_65
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d25bcc6fbef7ee70800000000000000
+      internalID: 9144557666516554451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_66
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8259e282967277ee0800000000000000
+      internalID: -1263497837854943960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_67
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde5ce0447758310800000000000000
+      internalID: 1406661592812482001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_68
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a3d8ee95681280800000000000000
+      internalID: -9072389716152441550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_69
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a35818c2c36e00800000000000000
+      internalID: 1036886503882728250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_70
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cdad3ebae0b0520800000000000000
+      internalID: 2669243335572118535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_71
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 1960
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028c792981db0a10800000000000000
+      internalID: 1876824056766693896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5518b5d0db7cb630800000000000000
+      internalID: 3944163510538736987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_73
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a029647bfe457770800000000000000
+      internalID: 8607873104685375655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_74
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488ad3e15140eac0800000000000000
+      internalID: -3827987863294015418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_75
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd625d413d4c631a0800000000000000
+      internalID: -6830055373994121509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_76
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907058e723e551170800000000000000
+      internalID: 8148522671760803593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_77
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58d0df4232f26a0800000000000000
+      internalID: -6471915497736796768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_78
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64761dd102a3a0fb0800000000000000
+      internalID: -4680864953084582074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_79
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e2d7dd486a6590800000000000000
+      internalID: -7680211530984266888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_80
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104242da5620ca70800000000000000
+      internalID: 8845111839672123412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_81
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b272f1384de772d90800000000000000
+      internalID: -7122584834465126613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_82
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ea9b6f3abecff0800000000000000
+      internalID: -13868967284513497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_83
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 980
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7b53be43a91e10800000000000000
+      internalID: 2168944253967498985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3fb486783f1e830800000000000000
+      internalID: 4098824898779804642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_85
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d8d88395f13f80800000000000000
+      internalID: -8128445838422124812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_86
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b07707ff190f10800000000000000
+      internalID: 2236353835808370946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_87
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938391e0e4de53b00800000000000000
+      internalID: 807812627682637881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_88
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4139d2c0f05719a80800000000000000
+      internalID: -8461853517363178732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_B_Normal_89
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 980
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9db05bee6bda4a0800000000000000
+      internalID: -6580402344162502237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 30f2334eafeb9ae499de399a4b639d6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

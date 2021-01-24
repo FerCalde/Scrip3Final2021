@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: dbf7e577282abab438406fe28e4cbc32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1497238325212679254
+    second: PausaBase_0
+  - first:
+      213: 2885042954444211534
+    second: PausaBase_1
+  - first:
+      213: -322214292999562091
+    second: PausaBase_2
+  - first:
+      213: 5905890368667970742
+    second: PausaBase_3
+  - first:
+      213: 3170313174388323150
+    second: PausaBase_4
+  - first:
+      213: -2029916071980097872
+    second: PausaBase_5
+  - first:
+      213: -8857566662436768970
+    second: PausaBase_6
+  - first:
+      213: -6910251843121270395
+    second: PausaBase_7
+  - first:
+      213: 2499879241904320040
+    second: PausaBase_8
+  - first:
+      213: 3975478170610026094
+    second: PausaBase_9
+  - first:
+      213: 5817150849814404841
+    second: PausaBase_10
+  - first:
+      213: 4445697014116997059
+    second: PausaBase_11
+  - first:
+      213: 5190349703087295323
+    second: PausaBase_12
+  - first:
+      213: -4965505044067293533
+    second: PausaBase_13
+  - first:
+      213: 9198735312522664640
+    second: PausaBase_14
+  - first:
+      213: 9156336159291167195
+    second: PausaBase_15
+  - first:
+      213: -8507400926669321991
+    second: PausaBase_16
+  - first:
+      213: 3302108462714209239
+    second: PausaBase_17
+  - first:
+      213: 1732922195497983859
+    second: PausaBase_18
+  - first:
+      213: -76703071768306295
+    second: PausaBase_19
+  - first:
+      213: -3711419368415743859
+    second: PausaBase_20
+  - first:
+      213: 7040013957470614465
+    second: PausaBase_21
+  - first:
+      213: 7000331977811034000
+    second: PausaBase_22
+  - first:
+      213: 7281869652307975319
+    second: PausaBase_23
+  - first:
+      213: 1177229842220487018
+    second: PausaBase_24
+  - first:
+      213: -2297584548981555418
+    second: PausaBase_25
+  - first:
+      213: -1211531851156324321
+    second: PausaBase_26
+  - first:
+      213: -8752542006619132028
+    second: PausaBase_27
+  - first:
+      213: -8133689916656559800
+    second: PausaBase_28
+  - first:
+      213: -5758033327930409655
+    second: PausaBase_29
+  - first:
+      213: -4107975256903771074
+    second: PausaBase_30
+  - first:
+      213: -557706317676702398
+    second: PausaBase_31
+  - first:
+      213: 67588514721879279
+    second: PausaBase_32
+  - first:
+      213: 5117436223576072315
+    second: PausaBase_33
+  - first:
+      213: 3496819588852100865
+    second: PausaBase_34
+  - first:
+      213: -4597287158356957475
+    second: PausaBase_35
+  - first:
+      213: 4793132910805633724
+    second: PausaBase_36
+  - first:
+      213: 3995514841298031386
+    second: PausaBase_37
+  - first:
+      213: 7321260468115751288
+    second: PausaBase_38
+  - first:
+      213: -5955981416603138517
+    second: PausaBase_39
+  - first:
+      213: -4054804274202286263
+    second: PausaBase_40
+  - first:
+      213: 7582500272340860520
+    second: PausaBase_41
+  - first:
+      213: -9010736364134582148
+    second: PausaBase_42
+  - first:
+      213: -2819968110041251099
+    second: PausaBase_43
+  - first:
+      213: -8008330801033147757
+    second: PausaBase_44
+  - first:
+      213: -8163616394775128910
+    second: PausaBase_45
+  - first:
+      213: 5670109850755282651
+    second: PausaBase_46
+  - first:
+      213: -1689064847327251871
+    second: PausaBase_47
+  - first:
+      213: -5214386930050387950
+    second: PausaBase_48
+  - first:
+      213: 5227200251877177461
+    second: PausaBase_49
+  - first:
+      213: -6116218830812729257
+    second: PausaBase_50
+  - first:
+      213: -4395557433471231634
+    second: PausaBase_51
+  - first:
+      213: -3363830407524672308
+    second: PausaBase_52
+  - first:
+      213: -1947409007090371877
+    second: PausaBase_53
+  - first:
+      213: -1579727574822017809
+    second: PausaBase_54
+  - first:
+      213: 649166258380186236
+    second: PausaBase_55
+  - first:
+      213: 4434391610426815198
+    second: PausaBase_56
+  - first:
+      213: -7286008349492267143
+    second: PausaBase_57
+  - first:
+      213: -3203476812269557227
+    second: PausaBase_58
+  - first:
+      213: -935164943475802098
+    second: PausaBase_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PausaBase_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0766f25247c410800000000000000
+      internalID: 1497238325212679254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_1
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45046d084bb90820800000000000000
+      internalID: 2885042954444211534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_2
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1534cec3478bf0800000000000000
+      internalID: -322214292999562091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_3
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcead2efffe5f150800000000000000
+      internalID: 5905890368667970742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_4
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43382af8073ffb20800000000000000
+      internalID: 3170313174388323150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_5
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be15c5661a44d3e0800000000000000
+      internalID: -2029916071980097872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_6
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333d17cc0a931580800000000000000
+      internalID: -8857566662436768970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_7
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b44e8f8ad910a0800000000000000
+      internalID: -6910251843121270395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_8
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6413fcea51b220800000000000000
+      internalID: 2499879241904320040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_9
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c78b455cbb2730800000000000000
+      internalID: 3975478170610026094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_10
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9c0890ebaab050800000000000000
+      internalID: 5817150849814404841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_11
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 3920
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7557941e942bd30800000000000000
+      internalID: 4445697014116997059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b82982e83d70840800000000000000
+      internalID: 5190349703087295323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a665f5887bf61bb0800000000000000
+      internalID: -4965505044067293533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_14
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca51cd970978af70800000000000000
+      internalID: 9198735312522664640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_15
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15d9a7937d11f70800000000000000
+      internalID: 9156336159291167195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_16
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cb0c6ee3afe980800000000000000
+      internalID: -8507400926669321991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_17
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d344e9c62273dd20800000000000000
+      internalID: 3302108462714209239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_18
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1c0e2e839c0810800000000000000
+      internalID: 1732922195497983859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_19
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d911e66fe7feef0800000000000000
+      internalID: -76703071768306295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_20
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8033159fb36e7cc0800000000000000
+      internalID: -3711419368415743859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_21
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3f3dc056723b160800000000000000
+      internalID: 7040013957470614465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_22
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ffb3f28dc262160800000000000000
+      internalID: 7000331977811034000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_23
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 2940
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c93862ed56e0560800000000000000
+      internalID: 7281869652307975319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a619a84ed4c565010800000000000000
+      internalID: 1177229842220487018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f378c96075d10e0800000000000000
+      internalID: -2297584548981555418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_26
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1081c94336cf2fe0800000000000000
+      internalID: -1211531851156324321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_27
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f28cdfa69b88680800000000000000
+      internalID: -8752542006619132028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_28
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849528c6d145f1f80800000000000000
+      internalID: -8133689916656559800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_29
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df8d3123b5710b0800000000000000
+      internalID: -5758033327930409655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_30
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1822d44a8df6c0800000000000000
+      internalID: -4107975256903771074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_31
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24593e51f01a248f0800000000000000
+      internalID: -557706317676702398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_32
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4d4e2656f10f000800000000000000
+      internalID: 67588514721879279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_33
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e7fac129c40740800000000000000
+      internalID: 5117436223576072315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_34
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f282d93e2378030800000000000000
+      internalID: 3496819588852100865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_35
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62babdfa72330c0800000000000000
+      internalID: -4597287158356957475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbacdcdbcf0a48240800000000000000
+      internalID: 4793132910805633724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_37
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13de5a349be27730800000000000000
+      internalID: 3995514841298031386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_38
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87146262b975a9560800000000000000
+      internalID: 7321260468115751288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_39
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ca8e257a185da0800000000000000
+      internalID: -5955981416603138517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_40
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ef62fef07ab7c0800000000000000
+      internalID: -4054804274202286263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_41
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efd2ae2d37a3960800000000000000
+      internalID: 7582500272340860520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_42
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78301b840f63f280800000000000000
+      internalID: -9010736364134582148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_43
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2cf0bd1f57dd8d0800000000000000
+      internalID: -2819968110041251099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_44
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a89900191bcd090800000000000000
+      internalID: -8008330801033147757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_45
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b49fd2442205be80800000000000000
+      internalID: -8163616394775128910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_46
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd636b32ed640be40800000000000000
+      internalID: 5670109850755282651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_47
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b57c687c3f88e0800000000000000
+      internalID: -1689064847327251871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21038e0d6b6c2a7b0800000000000000
+      internalID: -5214386930050387950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_49
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b8f62feeba8840800000000000000
+      internalID: 5227200251877177461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_50
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7503ad4e063de1ba0800000000000000
+      internalID: -6116218830812729257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_51
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699e1c8dc7dff2c0800000000000000
+      internalID: -4395557433471231634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_52
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc95d211164151d0800000000000000
+      internalID: -3363830407524672308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_53
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27bfb63d969f4e0800000000000000
+      internalID: -1947409007090371877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_54
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe428d4f32ea31ae0800000000000000
+      internalID: -1579727574822017809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_55
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72abe6c54d420900800000000000000
+      internalID: 649166258380186236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_56
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2767edcaf1a8d30800000000000000
+      internalID: 4434391610426815198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_57
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977bbf15206e2ea90800000000000000
+      internalID: -7286008349492267143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_58
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae87edfc6fa83d0800000000000000
+      internalID: -3203476812269557227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PausaBase_59
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000ab94070a503f0800000000000000
+      internalID: -935164943475802098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e37c88f2c3f736840b239aa370c99e21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6247175927702411626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6247175927702411628}
+  - component: {fileID: 6247175927702411629}
+  - component: {fileID: 6247175927702411631}
+  m_Layer: 0
+  m_Name: Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6247175927702411628
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6247175927702411626}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 73.715, y: 0.518, z: 41.98}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6247175927702411629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6247175927702411626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b45699f796ec424e890c07c3cbb6fb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  habilidadRewind: {fileID: 0}
+  habilidadClase: {fileID: 0}
+  sonidoRewinde: {fileID: 3552035719061190611, guid: b5bd94b3fb5962744b1bfae69c72154b,
+    type: 3}
+  sonidoCopia: {fileID: 3552035719061190611, guid: 62ab793599f2fac4c94a0b1d7486c788,
+    type: 3}
+--- !u!114 &6247175927702411631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6247175927702411626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7ddefca0283e346bf07476fef2a18c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPaused: 0
+  contadorKillsEnemy: 0
+  contadorRespeto: 0
+  contadorCombo: 0
+  score: 
+  tiempoCombo: 0
+  textoCombos: {fileID: 0}
+  canvasTotal: {fileID: 0}
+  goTextCombos: {fileID: 0}
+  sonidoCombo1: {fileID: 3552035719061190611, guid: dd9c6f4a6e0366d4280d4a5d9c15c653,
+    type: 3}
+  splatter: {fileID: 0}

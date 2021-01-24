@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: fa2f025be526529449530ceacb0c74f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1665882263124072117
+    second: Entrada_Pausa_0
+  - first:
+      213: 802976873028861173
+    second: Entrada_Pausa_1
+  - first:
+      213: -6019716614309332426
+    second: Entrada_Pausa_2
+  - first:
+      213: -4989069097252780793
+    second: Entrada_Pausa_3
+  - first:
+      213: 8232008308177655792
+    second: Entrada_Pausa_4
+  - first:
+      213: 100774060696803244
+    second: Entrada_Pausa_5
+  - first:
+      213: 6415601785552421325
+    second: Entrada_Pausa_6
+  - first:
+      213: -4131125019393783496
+    second: Entrada_Pausa_7
+  - first:
+      213: -7849542412676354949
+    second: Entrada_Pausa_8
+  - first:
+      213: 2628013676622207932
+    second: Entrada_Pausa_9
+  - first:
+      213: 9042907137801798085
+    second: Entrada_Pausa_10
+  - first:
+      213: 2929696577093058297
+    second: Entrada_Pausa_11
+  - first:
+      213: 3421456797713979186
+    second: Entrada_Pausa_12
+  - first:
+      213: -4801042452893095340
+    second: Entrada_Pausa_13
+  - first:
+      213: -1324806516803882461
+    second: Entrada_Pausa_14
+  - first:
+      213: 7071066094271151949
+    second: Entrada_Pausa_15
+  - first:
+      213: 7116853194113823677
+    second: Entrada_Pausa_16
+  - first:
+      213: -3978393822865270637
+    second: Entrada_Pausa_17
+  - first:
+      213: -7619831518582077423
+    second: Entrada_Pausa_18
+  - first:
+      213: 4389467554167355795
+    second: Entrada_Pausa_19
+  - first:
+      213: 5099749587628223376
+    second: Entrada_Pausa_20
+  - first:
+      213: -3423959504683902521
+    second: Entrada_Pausa_21
+  - first:
+      213: 1605711700996028698
+    second: Entrada_Pausa_22
+  - first:
+      213: -1691970571868357442
+    second: Entrada_Pausa_23
+  - first:
+      213: -7885657515383377191
+    second: Entrada_Pausa_24
+  - first:
+      213: 7013357998270993600
+    second: Entrada_Pausa_25
+  - first:
+      213: -7129562823018076546
+    second: Entrada_Pausa_26
+  - first:
+      213: -1913256086280813679
+    second: Entrada_Pausa_27
+  - first:
+      213: -7102825500055312064
+    second: Entrada_Pausa_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entrada_Pausa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49addc68e891e8e0800000000000000
+      internalID: -1665882263124072117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_1
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3dbf263fb42b00800000000000000
+      internalID: 802976873028861173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_2
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a339312aba57ca0800000000000000
+      internalID: -6019716614309332426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_3
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058e5ad61443cab0800000000000000
+      internalID: -4989069097252780793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_4
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75ef4f0f7fd3270800000000000000
+      internalID: 8232008308177655792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_5
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7186a6975066100800000000000000
+      internalID: 100774060696803244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_6
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c63825dbc80950800000000000000
+      internalID: 6415601785552421325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_7
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8390e48beab4ba6c0800000000000000
+      internalID: -4131125019393783496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_8
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c201ba3c2d01390800000000000000
+      internalID: -7849542412676354949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_9
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5febd384987420800000000000000
+      internalID: 2628013676622207932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_10
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14585612cde7d70800000000000000
+      internalID: 9042907137801798085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_11
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 1960
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3f41c38f58a820800000000000000
+      internalID: 2929696577093058297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237561274d47b7f20800000000000000
+      internalID: 3421456797713979186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aacbb73554f5db0800000000000000
+      internalID: -4801042452893095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_14
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32238c9fd775d9de0800000000000000
+      internalID: -1324806516803882461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_15
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f375c0629712260800000000000000
+      internalID: 7071066094271151949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_16
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db332c9f54424c260800000000000000
+      internalID: 7116853194113823677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_17
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d18385e7e9c8c0800000000000000
+      internalID: -3978393822865270637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_18
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118079efa9be04690800000000000000
+      internalID: -7619831518582077423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_19
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997f3feb758aec30800000000000000
+      internalID: 4389467554167355795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_20
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b6606fa33f5c640800000000000000
+      internalID: 5099749587628223376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_21
+      rect:
+        serializedVersion: 2
+        x: 8730
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95efda8f6ab70d0800000000000000
+      internalID: -3423959504683902521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_22
+      rect:
+        serializedVersion: 2
+        x: 9700
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a197e8dd842a84610800000000000000
+      internalID: 1605711700996028698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_23
+      rect:
+        serializedVersion: 2
+        x: 10670
+        y: 980
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3f55bab9e488e0800000000000000
+      internalID: -1691970571868357442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d23f2f0544809290800000000000000
+      internalID: -7885657515383377191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45699e0f3745160800000000000000
+      internalID: 7013357998270993600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_26
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762d22f264be0d90800000000000000
+      internalID: -7129562823018076546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_27
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c0e4f9bfb275e0800000000000000
+      internalID: -1913256086280813679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrada_Pausa_28
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 0
+        width: 970
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ed9f07d1bd6d90800000000000000
+      internalID: -7102825500055312064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f3ddc0b492c356f418281179aeb3c8e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
