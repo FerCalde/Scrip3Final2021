@@ -109,6 +109,6 @@ public class Kamikaze : MonoBehaviour
     }
     void NuevoSonido(GameObject sonido, Vector3 pos, float duracion)
     {
-        Destroy(Instantiate(sonido, pos, Quaternion.identity), 2f);
+        //Destroy(Instantiate(sonido, pos, Quaternion.identity), 2f);
     }
 }
