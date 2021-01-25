@@ -25,7 +25,7 @@ public class VidaEnemyBase : VidaBase
     public float time;
     public GameObject[] sonidoExplosion;
 
-    protected override void Awake()
+    public override void Awake()
     {
         base.Awake();
         cmpSkinnedMeshRenderer = GetComponentsInChildren<SkinnedMeshRenderer>();

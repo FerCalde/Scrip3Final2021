@@ -3615,17 +3615,14 @@ MonoBehaviour:
   totalNiveles:
   - {fileID: 5351981295956284731}
   - {fileID: 732113639}
-  - {fileID: 831457577}
   nivelesCompletados: 0
   modelsParticleFeedback:
   - {fileID: 2945186137932242702, guid: a43b1b2b856fec6498ec56d4ef54011c, type: 3}
   - {fileID: 861640039123655411, guid: 844203cd3d64d7045853d35d402e3f15, type: 3}
   - {fileID: 8458683712619927662, guid: 77d1530e0feff0142aa0308747ebfc27, type: 3}
   text_misionDescripcion:
-  - "Hola, este es el tuto cabr\xF3n"
-  - 'Joueputa, sobreviviste al primer nivel.
-
-    Esto es mas de lo mismo'
+  - Bienvenido al primer nivel del juego!
+  - Este es el verdadero desafio!
   - 'Aspirinita infantil...
 
     Vasito de leche...
@@ -7786,7 +7783,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
-  m_RenderPostProcessing: 1
+  m_RenderPostProcessing: 0
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -16153,10 +16150,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGlobal: 1
-  priority: 1
+  priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 1a7fa1815ed19ad44880f9adae71fb1e, type: 2}
+  sharedProfile: {fileID: 0}
 --- !u!4 &1144690716 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 428341031795259510, guid: 1e86930f3bd64e8449e52d336f09d829,
@@ -18483,10 +18480,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGlobal: 1
-  priority: 1
+  priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: 1a7fa1815ed19ad44880f9adae71fb1e, type: 2}
+  sharedProfile: {fileID: 0}
 --- !u!4 &1302650901
 Transform:
   m_ObjectHideFlags: 0

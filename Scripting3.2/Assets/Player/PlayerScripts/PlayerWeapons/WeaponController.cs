@@ -26,10 +26,10 @@ public class WeaponController : MonoBehaviour
     //[SerializeField] GameObject weaponEquipada2;
     [SerializeField] Text currentAmmoText;
     [SerializeField] Animator animHud;
-    
+
     public bool IsReloading { get => isReloading; set => isReloading = value; }
-    
-    
+
+
 
     float delayReloading;
 
@@ -37,37 +37,9 @@ public class WeaponController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Anim = GetComponent<Animator>();
-
-        /*  CODIGO RESERVADO PARA LA UPDATE CUANDO TENGAMOS LAS CLASES HECHAS, PARA ELEGIR LAS ARMAS Y HABILIDADES QUE CORRESPONDEN A CADA ARMA!
-         *  NO BORRAR NO BORRAR NO BORRAR
-         *  CODIGO EN PROGRESO
-        string nameEquiped1 = WeaponSelectManager.weaponNameSelected;
-        armaEquipada = GameObject.Find(nameEquiped1);
-        if (armaEquipada != null)
-        {
-            ArmaBase armaSelected1 = armaEquipada.GetComponent<ArmaBase>();
-            claseSeleccionadaWeapons.Add(armaSelected1);
-        }
-
-        string nameEquiped2 = WeaponSelectManager.weaponNameSelected2;
-        armaEquipada2 = GameObject.Find(nameEquiped2);
-        if(armaEquipada2 != null)
-        {
-            ArmaBase armaSelected2 = armaEquipada2.GetComponent<ArmaBase>();
-            claseSeleccionadaWeapons.Add(armaSelected2);
-        }
-
-        string nameEquiped3 = WeaponSelectManager.weaponNameSelected3;
-        armaEquipada3 = GameObject.Find(nameEquiped3);
-        if(armaEsquipada3!=null)
-        {
-            ArmaBase armaSelected3 = armaEquipada3.GetComponent<ArmaBase>();
-            claseSeleccionadaWeapons.Add(armaSelected3);
-        }
-         *  NO BORRAR NO BORRAR NO BORRAR
-        */
-        //((InputManager)InputManager.Instance).PressFire += ControllerFire();
+        ((InputManager)InputManager.Instance).PressFire += ControllerFire;
+        ((InputManager)InputManager.Instance).ReleaseFire += ControllerStopFire;
+        ((InputManager)InputManager.Instance).ReloadInput += InputRecarga;
 
         foreach (var arma in armasEquipadas) //Desactivo todas las armas
         {
@@ -83,6 +55,7 @@ public class WeaponController : MonoBehaviour
             armasEquipadas = claseSeleccionadaWeapons;
         }
 
+        Anim = GetComponent<Animator>();
 
         armaActual = armasEquipadas[0]; //seteo arma actual
         armaActual.gameObject.SetActive(true);
@@ -96,7 +69,7 @@ public class WeaponController : MonoBehaviour
         armaActual.BulletScreen();
     }
 
-    
+
 
     // Update is called once per frame
     void Update()
@@ -105,9 +78,9 @@ public class WeaponController : MonoBehaviour
         {
             CambiarWeapon(); //Es instantáneo. DISEÑO, ¿QUIERE COOLDOWN PARA CAMBIAR ARMAS? QUIERE QUE TARDE UN TIEMPO EN REALIZAR EL CAMBIO?
 
-            InputDisparo();
-
-            InputRecarga();
+            //InputDisparo();
+            //ControllerFire();
+            //InputRecarga();
         }
 
         if (isReloading)
@@ -115,17 +88,17 @@ public class WeaponController : MonoBehaviour
             if (Time.time >= delayReloading)
             {
                 AnimEventFinishReload();
-                
             }
         }
-          
+
     }
 
     private void InputRecarga() //TIEMPO DE RECARGA CONTROLADO POR DURACION ANIMACION!
     {
-        if (Input.GetKeyDown(KeyCode.R)) //Press R
+        /*if (Input.GetKeyDown(KeyCode.R)) //Press R
+        {*/
+        if (!isReloading && !isChangingWeapon && !isBusy)
         {
-
             armaActual.SoltarGatillo();
 
             isReloading = true;
@@ -135,8 +108,8 @@ public class WeaponController : MonoBehaviour
             armaActual.BulletScreen();
             animHud.SetBool("recargando", true);
 
-            Anim.SetBool("Reloading", true);            
-        }        
+            Anim.SetBool("Reloading", true);
+        }
     }
     public void autoReloadController()
     {
@@ -157,7 +130,7 @@ public class WeaponController : MonoBehaviour
     }
     private void InputDisparo()
     {
-        if (Input.GetMouseButtonDown(0)) //Press FIRE
+        /*if (Input.GetMouseButtonDown(0)) //Press FIRE
         {
             if (!armaActual.isGrenade)
             {
@@ -166,9 +139,9 @@ public class WeaponController : MonoBehaviour
             armaActual.ApretarGatillo();
 
             armaActual.BulletScreen();
-        }
+        }*/
 
-        if (Input.GetMouseButtonUp(0)) //Release FIRE
+        /*if (Input.GetMouseButtonUp(0)) //Release FIRE
         {
             armaActual.SoltarGatillo();
 
@@ -180,17 +153,29 @@ public class WeaponController : MonoBehaviour
             {
                 Anim.ResetTrigger("Shooting");
             }
-        }
+        }*/
     }
 
 
     void ControllerFire()
     {
-        armaActual.ApretarGatillo();
+        if (!isReloading && !isChangingWeapon && !isBusy)
+        {
+            armaActual.ApretarGatillo();
+            armaActual.BulletScreen();
+        }
     }
     public void ControllerStopFire()
     {
         armaActual.SoltarGatillo();
+        if (armaActual.isGrenade)
+        {
+            Anim.ResetTrigger("Grenade");
+        }
+        else
+        {
+            Anim.ResetTrigger("Shooting");
+        }
     }
     private void CambiarWeapon()
     {
@@ -205,7 +190,7 @@ public class WeaponController : MonoBehaviour
                 armaActual.weaponModelPrefab.SetActive(true);  //Activa modelo del arma
                 CheckerAnimator();
 
-                
+
                 ChangeWeaponInHUD();    //Update Imagen del arma equipada
                 armaActual.BulletScreen();
 
@@ -219,9 +204,9 @@ public class WeaponController : MonoBehaviour
                     weaponEquipada1.SetActive(false);
                     weaponEquipada2.SetActive(true);
                 }*/
-                
+
             }
-            
+
         }
     }
     void CheckerAnimator()
@@ -280,14 +265,6 @@ public class WeaponController : MonoBehaviour
         isReloading = false;
     }
 
-    public void AnimEventLanzarBoomer()
-    {
-        if (armaActual.GetComponent<Chakram>() != null)
-        {
-            armaActual.GetComponent<Chakram>().EventLanzarBoomer();        
-        }
-    }
-    
     public void BusyState()
     {
         isBusy = !isBusy;

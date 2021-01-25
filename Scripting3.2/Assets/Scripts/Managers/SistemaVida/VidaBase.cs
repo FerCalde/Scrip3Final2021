@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class VidaBase : Singleton {
+public abstract class VidaBase : SingletonTemporal<VidaBase> {
     
     [SerializeField] protected float vidaMaxima = 100;
     [SerializeField]  protected float vidaActual;
@@ -37,7 +37,7 @@ public abstract class VidaBase : Singleton {
     protected float cantDamageRecibida;
 
 
-    protected override void Awake()
+    public override void Awake()
     {
         base.Awake();
         

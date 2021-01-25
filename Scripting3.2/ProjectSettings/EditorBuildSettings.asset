@@ -5,31 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MENU.unity
     guid: f7dd37cfb391528419126ec37100232d
   - enabled: 1
-    path: Assets/Scenes/Tutorial.unity
-    guid: 0f60a26e779a76d40816ee2d29559af6
-  - enabled: 0
     path: Assets/Scenes/Nivel2.unity
     guid: dd8b1a4da7e44f24db0ecaa3ed4010cc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/NivelFinal.unity
     guid: 504ec7ad8c2a82342958a8812082de64
-  - enabled: 0
-    path: Assets/Scenes/Controles.unity
-    guid: 9e4a49c4649e75e4dba27ccc4110ded7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Selector.unity
     guid: 649719000ccbb9f479c7ad1ca39c3bbe
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MAPA.unity
     guid: a600bf1bd60080347bb5d2ba718c966c
   - enabled: 0
-    path: Assets/Scenes/CaldeTestingSelectOn.unity
-    guid: 41250a9afd3a60049aac7a6ec5434a70
-  - enabled: 0
-    path: Assets/Scenes/CaldeClasesChoose.unity
-    guid: fc219620eb1f13b439cc1f38dac298b0
+    path: Assets/Scenes/Controles.unity
+    guid: 9e4a49c4649e75e4dba27ccc4110ded7
   m_configObjects: {}

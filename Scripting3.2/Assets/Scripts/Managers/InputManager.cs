@@ -7,13 +7,13 @@ public class InputManager : MonoBehaviour
 {
     [SerializeField]  HabilidadBase habilidadRewind, habilidadClase;
    
-    /* public delegate void OnStart();
+    public delegate void OnStart();
      public event OnStart PressFire;
      public event OnStart ReleaseFire;
-    */
+    public event OnStart ReloadInput;
 
 
-    /*public static InputManager Instance
+    public static InputManager Instance
     {
         get;
         private set;
@@ -23,7 +23,7 @@ public class InputManager : MonoBehaviour
     {
         Instance = this;
 
-    }*/
+    }
 
     void Start()
     {
@@ -31,19 +31,22 @@ public class InputManager : MonoBehaviour
 
     }
 
-
     // Update is called once per frame
     void Update()
     {
-        /*if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0))
         {
             PressFire();
         }
         if (Input.GetMouseButtonUp(0))
         {
             ReleaseFire();
-        }*/
+        }
 
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            ReloadInput();
+        }
 
         if (Input.GetKeyDown(KeyCode.F))
         {
