@@ -94,7 +94,7 @@ public class LevelManager : SingletonTemporal<LevelManager>
                     cmpHUDmisioninfo.SetCurrentMissionInfo(i, text_misionDescripcion[i], panelColor);
                         panelMisionInfo.SetActive(true);
                 }
-                nivelJuegoScene = i + 1;
+                nivelJuegoScene = i + 1; //Se suma 1 para igualar a la posicion de las escenas en BuildSetting. Los niveles estan situados a partir de la escena inicial de menú.
             }
         }
     }
