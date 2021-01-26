@@ -10,7 +10,7 @@ public class BulletBase : MonoBehaviour
 
     public float damageBala = 10f;
 
-    [SerializeField] GameObject prefParticulaExplosionBullet = null;
+   // [SerializeField] GameObject prefParticulaExplosionBullet = null;
     public GameObject[] chocaPared;
     public GameObject[] chocaEnemigo;
     AudioSource cmpAudioSource;
@@ -52,7 +52,7 @@ public class BulletBase : MonoBehaviour
                 BulletColisiona();
             }
 
-            InstanciarParticulasFeel();
+            //InstanciarParticulasFeel();
         }
         /*if (collision.tag == "Enemy")
         {
@@ -90,11 +90,12 @@ public class BulletBase : MonoBehaviour
         Destroy(this.gameObject);
     }
 
-    private void InstanciarParticulasFeel()
+  /*  private void InstanciarParticulasFeel()
     {
         GameObject particulaColisionado = Instantiate(prefParticulaExplosionBullet, this.transform.position, this.transform.rotation);
         Destroy(particulaColisionado, 0.3f);
     }
+    */
     protected void SoundVFX(AudioClip[] vfxSoundActual)
     {
         int sonidoAleatorio = Mathf.RoundToInt(Random.Range(0, vfxSoundActual.Length - 1)); //Elige un sonido aleatorio dentro de la lista de Audioclips que le pasamos.

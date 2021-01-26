@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 499656}
   - component: {fileID: 2356442}
   - component: {fileID: 3370324}
-  - component: {fileID: 11489952}
   - component: {fileID: 10825254}
   - component: {fileID: 3361123957657143354}
   - component: {fileID: 4478204088016784275}
@@ -49,7 +48,7 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -58,7 +57,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: 71667d7801729984ab543f565586bab6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -88,25 +87,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 136330}
   m_Mesh: {fileID: 0}
---- !u!114 &11489952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 136330}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0884dceb0d4308c4eb8bc763c8f8deae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_templateMaterial: {fileID: 2100000, guid: f68f8c3a3d76fb74cbb880d372c81620, type: 2}
-  m_doNotOverwriteTemplateMaterialProperties: 1
-  m_startPos: {x: 0, y: 0, z: 0}
-  m_endPos: {x: 0, y: 0, z: 50}
-  m_lineColor: {r: 0.034482718, g: 1, b: 0, a: 0}
-  m_lineWidth: 66
-  m_lightSaberFactor: 0.684
 --- !u!108 &10825254
 Light:
   m_ObjectHideFlags: 0
@@ -212,16 +192,12 @@ MonoBehaviour:
   speedBala: 10
   tiempoVida: 2
   damageBala: 10
-  prefParticulaExplosionBullet: {fileID: 1767285590155568, guid: 70a0fd1c2de8e4741aefc1003eb834bb,
+  prefParticulaExplosionBullet: {fileID: 1069985701613268, guid: 99567b84b88ee174a99ff85f925fc8d2,
     type: 3}
-  ChocaPared:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  chocaPared:
+  - {fileID: 3552035719061190611, guid: 19822648500809c4ea1a473d629c8d13, type: 3}
   chocaEnemigo:
-  - {fileID: 8300000, guid: e3b2c904bf9ee494fa933bf71fbd8f01, type: 3}
-  - {fileID: 8300000, guid: a42d300d4c589bb4aa9fcd986b962894, type: 3}
+  - {fileID: 3552035719061190611, guid: a3ad6dff71e359c42a2715f48b2a8b1f, type: 3}
 --- !u!82 &-3251838780454485236
 AudioSource:
   m_ObjectHideFlags: 0
@@ -229,7 +205,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 136330}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
@@ -369,7 +345,7 @@ TrailRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3b74779a12f08c844a60b2a5a0079454, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
